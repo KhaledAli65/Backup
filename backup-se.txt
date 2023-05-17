@@ -1,5 +1,5 @@
 01_KhaledAli_Backup_Openatv_7.2 https://dl.dropboxusercontent.com/s/tj47adf6047r3dr/openatv-novaler4kse-backup-by_KhaledAli.zip?dl=0
-02_KhaledAli_Backup_Openatv_7.3 https://images.mynonpublic.com/openatv/7.3/current.php?open=novaler4kse
+02_KhaledAli_Backup_Openatv_7.3 https://dl.dropboxusercontent.com/s/9ifnsbxsd4rpw2b/openatv7.3-novaler4kse-backup-by_KhaledAli.zip?dl=0
 03_KhaledAli_Backup_OpenPli_8.3 https://dl.dropboxusercontent.com/s/0r32kg91avelgb8/openpli-novaler4kse-backup-by_KhaledAli.zip?dl=0
 04_KhaledAli_Backup_OpenPLi_dev https://dl.dropboxusercontent.com/s/nvl52ssbp30xc1g/openpli-dev-novaler4kse-backup-by_KhaledAli.zip?dl=0
 05_KhaledAli_Backup_OpenDroid_7.3 https://dl.dropboxusercontent.com/s/u0eqp0r8s1e5htt/opendroid-novaler4kse-backup-by_KhaledAli.zip?dl=0
