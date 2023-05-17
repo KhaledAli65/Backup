@@ -1,3 +1,4 @@
+===Welcome_KhaledAli_NovalerSE_Cloud=== https://khaledali.com
 01_KhaledAli_Backup_Openatv_7.2 https://dl.dropboxusercontent.com/s/tj47adf6047r3dr/openatv-novaler4kse-backup-by_KhaledAli.zip?dl=0
 02_KhaledAli_Backup_Openatv_7.3 https://dl.dropboxusercontent.com/s/9ifnsbxsd4rpw2b/openatv7.3-novaler4kse-backup-by_KhaledAli.zip?dl=0
 03_KhaledAli_Backup_OpenPli_8.3 https://dl.dropboxusercontent.com/s/0r32kg91avelgb8/openpli-novaler4kse-backup-by_KhaledAli.zip?dl=0
@@ -9,6 +10,6 @@
 09_KhaledAli_Backup_OpenVision_12.2 https://dl.dropboxusercontent.com/s/lvukuujjees2jmy/openvision-novaler4kse-backup-by_KhaledAli.zip?dl=0
 10_KhaledAli_Backup_OpenHDF_7.3 https://dl.dropboxusercontent.com/s/4lo0u03xhd571ag/openhdf-novaler4kse-backup-by_KhaledAli.zip?dl=0
 11_KhaledAli_Backup_OpenSpa_8.1 https://dl.dropboxusercontent.com/s/22zepkcbxlttnz0/openspa-novaler4kse-backup-by_KhaledAli.zip?dl=0
-12_KhaledAli_Backup_Open_VIX_6.3 https://dl.dropboxusercontent.com/s/5hd7t80flotif8e/openvix-novaler4kse-backup-by_KhaledAli.zip?dl=0
+12_KhaledAli_Backup_OpenVIX_6.3 https://dl.dropboxusercontent.com/s/5hd7t80flotif8e/openvix-novaler4kse-backup-by_KhaledAli.zip?dl=0
 13_KhaledAli_Backup_OpenTR_10.1 https://dl.dropboxusercontent.com/s/kp0g25l9em3rm80/openTR-novaler4kse-backup-by_KhaledAli.zip?dl=0
 14_KhaledAli_Backup_Hyperion_9.2 https://dl.dropboxusercontent.com/s/8ll48076ytruegb/Hyperion-novaler4kse-backup-by_KhaledAli.zip?dl=0
