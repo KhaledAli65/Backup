@@ -14,3 +14,4 @@
 13_KhaledAli_Backup_OpenTR_10.1 https://dl.dropboxusercontent.com/s/kp0g25l9em3rm80/openTR-novaler4kse-backup-by_KhaledAli.zip?dl=0
 14_KhaledAli_Backup_Hyperion_9.2 https://dl.dropboxusercontent.com/s/8ll48076ytruegb/Hyperion-novaler4kse-backup-by_KhaledAli.zip?dl=0
 15_KhaledAli_Backup_CobraLiberoSat https://dl.dropboxusercontent.com/s/nmvmrfc0gcy4qnn/cobraliberosat-novaler4kse-backup-by_KhaledAli.zip?dl=0
+16_KhaledAli_Backup_NonSoloSat https://dl.dropboxusercontent.com/s/v88k0ulci4fbg1t/nonsolosat-novaler4kse-backup-by_KhaledAli.zip?dl=0
