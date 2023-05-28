@@ -30,7 +30,7 @@
 12_purE2_6.5 https://www.novaler.com/uploads/enigmase/pure2/multiboxse-PurE2-6.5-20220327_mmc.zip
 13_OpenVision_12.2 https://images.openvision.dedyn.io/12.2/Develop/Vision/MaxyTec/multiboxse/openvision-e2-develop-py3.11-12.2-r533-multiboxse-20230509_usb.zip
 14_OpenHDF_7.3 https://novaler.com/uploads/enigmase/openhdf/openhdf-7.3-novaler4kse-1-20230513_multi.zip
-15_OpenSpa_8.1 https://novaler.com/uploads/enigmase/openspa/openspa-8.1.001-novaler4kse-20230430_multi.zip
+15_OpenSpa_8.1 https://novaler.com/uploads/enigmase/openspa/openspa-8.1.002-novaler4kse-20230528_multi.zip
 16_Open_VIX_6.4 https://novaler.com/uploads/enigmase/openvix/openvix-6.4.001.release-novaler4kse_multi.zip
 17_OpenTR_10.1 https://novaler.com/uploads/enigmase/opentr/opentr-10.1-novaler4kse-20230418_usb.zip
 18_Hyperion_9.2 https://www.novaler.com/uploads/enigmase/pkt/zukonmod-hyperion-9.2-multiboxse-git32181-svn4618_multi.zip
