@@ -26,7 +26,7 @@
 09_PurE2_6.5 https://www.pur-e2.club/OU/images/index.php?dir=6.5/novaler/&file=novaler4kse-PurE2-6.5-20230528_multi.zip
 10_PurE2_7.3 https://www.pur-e2.club/OU/images/index.php?dir=7.3/novaler/&file=novaler4kse-PurE2-7.3-20230710_multi.zip
 11_OpenVision_13.1 https://images.openvision.dedyn.io/13.1/Develop/Vision/MaxyTec/multiboxse/openvision-e2-develop-py3.11-13.1-r548-multiboxse-20230705_usb.zip
-12_OpenHDF_7.3 https://novaler.com/uploads/enigmase/openhdf/openhdf-7.3-novaler4kse-1-20230513_multi.zip
+12_OpenHDF_7.3 https://dl.dropboxusercontent.com/scl/fi/jgrekkb3hwtx70zticb1k/openhdf-7.3-novaler4kse.zip?rlkey=cv2g7fewtls13fjaiy4tgwqr0&dl=0
 13_OpenSpa_8.1 https://novaler.com/uploads/enigmase/openspa/openspa-8.1.002-novaler4kse-20230528_multi.zip
 14_Open_VIX_6.4 https://novaler.com/uploads/enigmase/openvix/openvix-6.4.001.release-novaler4kse_multi.zip
 15_OpenTR_10.1 https://novaler.com/uploads/enigmase/opentr/opentr-10.1-novaler4kse-20230418_usb.zip
