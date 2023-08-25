@@ -36,3 +36,8 @@
 19_TeamBlue_7.2 https://novaler.com/uploads/enigmase/teamblue/teamblue-7.2-novaler4kse-20230502_multi.zip
 20_Cobralibrosat https://www.novaler.com/uploads/enigmase/cobralibero/cobraliberosat-PY3-novaler4kse_usb.zip
 21_Nonsolosat_28 https://dl.dropboxusercontent.com/s/9sidgcz26wi5p0n/Nonsolosat-28-multiboxse_emmc.zip?dl=0
+===Welcome_KhaledAli_NovalerSE_Official=== https://khaledali.com
+01_openatv_7.3 https://www.novaler.com/uploads/enigmase/openatv/openatv-7.3-novaler4kse-backup-20230824_usb.zip
+02_openpli_9 https://www.novaler.com/uploads/enigmase/openpli/openpli-9.0-rc-novaler4kse-backup-20230824_usb.zip
+03_Egami_10.4 https://www.novaler.com/uploads/enigmase/egami/egami-10.4.r7-novaler4kse-backup-20230824_usb.zip
+04_PurE2_7.3 https://www.novaler.com/uploads/enigmase/pure2/pure2-7.3-novaler4kse-backup-20230824_usb.zip
