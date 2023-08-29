@@ -27,7 +27,7 @@
 10_OpenVision_13.1 https://images.openvision.dedyn.io/13.1/Develop/Vision/MaxyTec/multiboxse/openvision-e2-develop-py3.11-13.1-r549-multiboxse-20230715_usb.zip
 11_OpenHDF_7.3 https://dl.dropboxusercontent.com/scl/fi/jgrekkb3hwtx70zticb1k/openhdf-7.3-novaler4kse.zip?rlkey=cv2g7fewtls13fjaiy4tgwqr0&dl=0
 12_OpenSpa_8.1 https://dl.dropboxusercontent.com/scl/fi/r1khrpyf30smh02ipvvuw/openspa-8.1.002-novaler4kse.zip?rlkey=fxaurlx3daa62b9gobfs95gpe&dl=0
-13_Open_VIX_6.4 https://dl.dropboxusercontent.com/scl/fi/suvokdwwb1q1dkcq3iwb8/openvix-6.4.001.release-novaler4kse.zip?rlkey=vksflflzvkspi14heqqj1ssrf&dl=0
+13_Open_VIX_6.4 https://www.novaler.com/uploads/enigmase/openvix/openvix-6.4.005.release-novaler4kse_multi.zip
 14_OpenTR_10.1 https://dl.dropboxusercontent.com/scl/fi/tn9etb0cu5otpw0wveeot/opentr-10.1-novaler4kse.zip?rlkey=fdt7nubd8g07cbtfwhhkguf34&dl=0
 15_Hyperion_9.2 https://dl.dropboxusercontent.com/scl/fi/9keyscnme1sg2c7lcawy7/hyperion-9.2-multiboxse-git32181-svn4618.zip?rlkey=i21j5shjjh8hu1dj5q2yf3z30&dl=0
 16_SatLodge_8.2 https://www.novaler.com/uploads/enigmase/satlodge/satlodge-8.2-stable-multiboxse_emmc.zip
