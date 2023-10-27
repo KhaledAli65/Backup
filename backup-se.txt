@@ -25,7 +25,7 @@
 07_Openbh_5.3 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.3.009.release-novaler4kse_multi.zip 
 08_Egami_10.4 https://image.egami-image.com/10.4/novaler4kse/egami-10.4-r10-novaler4kse-20231018_multi.zip
 09_PurE2_6.5 https://www.novaler.com/uploads/enigmase/pure2/multiboxse-PurE2-6.5-20220327_mmc.zip
-10_PurE2_7.3 https://dl.dropboxusercontent.com/scl/fi/d46li0wjxiyqsk2155868/novaler4kse-PurE2-7.3-20231009_multi.zip?rlkey=kfx2w76jg0n0dqsn8scko10yo&dl=0
+10_PurE2_7.3 https://dl.dropboxusercontent.com/scl/fi/9ns8te3a29d3q0qlytrre/novaler4kse-PurE2-7.3-20231026_multi.zip?rlkey=i9v1vsh6hyhcak05srope0kvv&dl=0
 11_OpenVision_13.1 https://images.openvision.dedyn.io/13.1/Develop/Vision/MaxyTec/multiboxse/openvision-e2-develop-py3.11-13.1-r549-multiboxse-20230715_usb.zip
 12_OpenHDF_7.3 https://www.novaler.com/uploads/enigmase/openhdf/openhdf-7.3-novaler4kse-28-20231025_multi.zip
 13_OpenSpa_8.3 https://dl.dropboxusercontent.com/scl/fi/4xyhr92qpvku53cswqqoo/openspa-8.3.002-axmultiboxse-20230919_multi.zip?rlkey=dtbx4tkcdkme0d3s3umud3ppo&dl=0
