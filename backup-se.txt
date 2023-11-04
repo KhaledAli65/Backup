@@ -2,11 +2,11 @@
 01_KhaledAli_Backup_Openatv_7.3_04112023 https://dl.dropboxusercontent.com/s/9ifnsbxsd4rpw2b/openatv7.3-novaler4kse-backup-by_KhaledAli.zip?dl=0
 02_KhaledAli_Backup_Openatv_7.4_devel_26102023 https://dl.dropboxusercontent.com/scl/fi/6fvvm9yw4e72lranaay2e/openatv-7.4-devel-novaler4kse-backup-by_KhaledAli.zip?rlkey=jkjjdqdptvyqv8lgdbtczvg23&dl=0
 03_KhaledAli_Backup_OpenPli_9.0_24102023 https://dl.dropboxusercontent.com/s/0r32kg91avelgb8/openpli-novaler4kse-backup-by_KhaledAli.zip?dl=0
-04_KhaledAli_Backup_OpenPli_8.3_18102023 https://dl.dropboxusercontent.com/scl/fi/r3taiwl0e7js67axtqu5y/openpli-8.3-novaler4kse-backup-by_KhaledAli.zip?rlkey=n67t5zetwb3egjj8waud26xi9&dl=0
+04_KhaledAli_Backup_OpenPli_8.3_04112023 https://dl.dropboxusercontent.com/scl/fi/r3taiwl0e7js67axtqu5y/openpli-8.3-novaler4kse-backup-by_KhaledAli.zip?rlkey=n67t5zetwb3egjj8waud26xi9&dl=0
 05_KhaledAli_Backup_OpenPLi_dev_28102023 https://dl.dropboxusercontent.com/s/nvl52ssbp30xc1g/openpli-dev-novaler4kse-backup-by_KhaledAli.zip?dl=0
 06_KhaledAli_Backup_Openbh_5.3_01112023 https://dl.dropboxusercontent.com/s/4zqg0ofrg6yy2kj/openbh-novaler4kse-backup-by_KhaledAli.zip?dl=0 
 07_KhaledAli_Backup_Egami_10.4_01112023 https://dl.dropboxusercontent.com/s/twaop8zedabvd42/egami-novaler4kse-backup-by_KhaledAli.zip?dl=0
-08_KhaledAli_Backup_OpenDroid_7.3_08102023 https://dl.dropboxusercontent.com/s/u0eqp0r8s1e5htt/opendroid-novaler4kse-backup-by_KhaledAli.zip?dl=0
+08_KhaledAli_Backup_OpenDroid_7.3_04112023 https://dl.dropboxusercontent.com/s/u0eqp0r8s1e5htt/opendroid-novaler4kse-backup-by_KhaledAli.zip?dl=0
 09_KhaledAli_Backup_PurE2_7.3_03112023 https://dl.dropboxusercontent.com/s/v2s50bet8zd5e7n/pure2-novaler4kse-backup-by_KhaledAli.zip?dl=0
 10_KhaledAli_Backup_OpenVision_13.1_13102023 https://dl.dropboxusercontent.com/s/lvukuujjees2jmy/openvision-novaler4kse-backup-by_KhaledAli.zip?dl=0
 11_KhaledAli_Backup_OpenHDF_7.3_27102023 https://dl.dropboxusercontent.com/s/4lo0u03xhd571ag/openhdf-novaler4kse-backup-by_KhaledAli.zip?dl=0
