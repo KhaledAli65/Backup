@@ -19,8 +19,8 @@
 ===KhaledAli_NovalerSE_Crude=== https://khaledali.com
 01_Openatv_7.3 https://images.mynonpublic.com/openatv/7.3/current.php?open=novaler4kse
 02_Openatv_7.4_devel https://novaler.com/uploads/enigmase/openatv/openatv-7.4-devel-novaler4kse-20231025_multi.zip
-03_OpenPli_8.3 https://downloads.openpli.org/builds/multiboxse/openpli-8.3-release-multiboxse-20231030_emmc.zip
-04_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20231109_emmc.zip
+03_OpenPli_8.3 https://downloads.openpli.org/builds/multiboxse/openpli-8.3-release-multiboxse-20231109_emmc.zip
+04_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20231110_emmc.zip
 05_OpenPLi_9.0 https://downloads.openpli.org/builds/multiboxse/openpli-9.0-release-multiboxse-20231108_emmc.zip
 06_OpenDroid_7.3 https://www.novaler.com/uploads/enigmase/opendroid/opendroid-7.3-novaler4kse-r20230819-20230819_multi.zip
 07_Openbh_5.3 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.3.011.release-novaler4kse_multi.zip 
@@ -43,9 +43,9 @@
 01_openatv_7.3 https://www.novaler.com/uploads/enigmase/openatv/openatv-7.3-novaler4kse-backup-20231023_usb.zip
 02_Openatv_7.4 https://www.novaler.com/uploads/enigmase/openatv/openatv-7.4-devel-novaler4kse-backup-20231031_usb.zip
 03_openpli_9 https://www.novaler.com/uploads/enigmase/openpli/openpli-develop-novaler4kse-backup-20231023_usb.zip
-04_Egami_10.4 https://www.novaler.com/uploads/enigmase/egami/egami-10.4.r10-novaler4kse-backup-20231022_usb.zip
-05_PurE2_7.3 https://www.novaler.com/uploads/enigmase/pure2/pure2-7.3-novaler4kse-backup-20231022_usb.zip
-06_OpenBH_5.3 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.3-008-novaler4kse-backup-20231001_usb.zip
+04_Egami_10.4 https://www.novaler.com/uploads/enigmase/egami/egami-10.4.r11-novaler4kse-backup-20231101_usb.zip
+05_PurE2_7.3 https://www.novaler.com/uploads/enigmase/pure2/pure2-7.3-novaler4kse-backup-20231101_usb.zip
+06_OpenBH_5.3 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.3-011-novaler4kse-backup-20231109_mmc.zip
 ===KhaledAli_NovalerSE_BOOT_5=== https://khaledali.com
 01_Openpli_9.0_BOOT_5 https://www.novaler.com/uploads/enigmase/boot5/openpli-9.0-multibox4kse-boot5.zip
 02_Openpli_dev_BOOT_5 https://www.novaler.com/uploads/enigmase/boot5/openpli-develop-multiboxse-boot5.zip
