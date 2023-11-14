@@ -22,7 +22,7 @@
 03_OpenPli_8.3 https://downloads.openpli.org/builds/multiboxse/openpli-8.3-release-multiboxse-20231109_emmc.zip
 04_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20231113_emmc.zip
 05_OpenPLi_9.0 https://downloads.openpli.org/builds/multiboxse/openpli-9.0-release-multiboxse-20231108_emmc.zip
-06_OpenDroid_7.3 https://www.novaler.com/uploads/enigmase/opendroid/opendroid-7.3-novaler4kse-r20230819-20230819_multi.zip
+06_OpenDroid_7.3 https://www.novaler.com/uploads/enigmase/opendroid/opendroid-7.3-novaler4kse-r20231113_multi.zip
 07_Openbh_5.3 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.3.011.release-novaler4kse_multi.zip 
 08_Egami_10.4 https://image.egami-image.com/10.4/novaler4kse/egami-10.4-r11-novaler4kse-20231031_multi.zip
 09_PurE2_6.5 https://www.novaler.com/uploads/enigmase/pure2/multiboxse-PurE2-6.5-20220327_mmc.zip
