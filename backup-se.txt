@@ -12,7 +12,7 @@
 11_Backup_OpenHDF_7.3_27102023 https://dl.dropboxusercontent.com/s/4lo0u03xhd571ag/openhdf-novaler4kse-backup-by_KhaledAli.zip?dl=0
 12_Backup_OpenSpa_8.1_10102023 https://dl.dropboxusercontent.com/s/22zepkcbxlttnz0/openspa-novaler4kse-backup-by_KhaledAli.zip?dl=0
 13_Backup_OpenVIX_6.4_07102023 https://dl.dropboxusercontent.com/s/5hd7t80flotif8e/openvix-novaler4kse-backup-by_KhaledAli.zip?dl=0
-14_Backup_OpenTR_10.1_18042023 https://dl.dropboxusercontent.com/s/kp0g25l9em3rm80/openTR-novaler4kse-backup-by_KhaledAli.zip?dl=0
+14_Backup_OpenTR_10.2_19112023 https://dl.dropboxusercontent.com/s/kp0g25l9em3rm80/openTR-novaler4kse-backup-by_KhaledAli.zip?dl=0
 15_Backup_Hyperion_9.2_22092023 https://dl.dropboxusercontent.com/s/8ll48076ytruegb/Hyperion-novaler4kse-backup-by_KhaledAli.zip?dl=0
 16_Backup_CobraLiberoSat_08102023 https://dl.dropboxusercontent.com/s/nmvmrfc0gcy4qnn/cobraliberosat-novaler4kse-backup-by_KhaledAli.zip?dl=0
 17_Backup_NonSoloSat_11102023 https://dl.dropboxusercontent.com/s/v88k0ulci4fbg1t/nonsolosat-novaler4kse-backup-by_KhaledAli.zip?dl=0
