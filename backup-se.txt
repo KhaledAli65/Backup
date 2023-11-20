@@ -5,7 +5,7 @@
 04_Backup_OpenPli_8.3_04112023 https://dl.dropboxusercontent.com/scl/fi/r3taiwl0e7js67axtqu5y/openpli-8.3-novaler4kse-backup-by_KhaledAli.zip?rlkey=n67t5zetwb3egjj8waud26xi9&dl=0
 05_Backup_OpenPLi_dev_13112023 https://dl.dropboxusercontent.com/s/nvl52ssbp30xc1g/openpli-dev-novaler4kse-backup-by_KhaledAli.zip?dl=0
 06_Backup_Openbh_5.3_10112023 https://dl.dropboxusercontent.com/s/4zqg0ofrg6yy2kj/openbh-novaler4kse-backup-by_KhaledAli.zip?dl=0 
-07_Backup_Egami_10.4_01112023 https://dl.dropboxusercontent.com/s/twaop8zedabvd42/egami-novaler4kse-backup-by_KhaledAli.zip?dl=0
+07_Backup_Egami_10.4_20112023 https://dl.dropboxusercontent.com/s/twaop8zedabvd42/egami-novaler4kse-backup-by_KhaledAli.zip?dl=0
 08_Backup_OpenDroid_7.3_14112023 https://dl.dropboxusercontent.com/s/u0eqp0r8s1e5htt/opendroid-novaler4kse-backup-by_KhaledAli.zip?dl=0
 09_Backup_PurE2_7.3_03112023 https://dl.dropboxusercontent.com/s/v2s50bet8zd5e7n/pure2-novaler4kse-backup-by_KhaledAli.zip?dl=0
 10_Backup_OpenVision_13.1_13102023 https://dl.dropboxusercontent.com/s/lvukuujjees2jmy/openvision-novaler4kse-backup-by_KhaledAli.zip?dl=0
