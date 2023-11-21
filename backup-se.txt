@@ -34,7 +34,7 @@
 14_Open_VIX_6.4 https://www.novaler.com/uploads/enigmase/openvix/openvix-6.4.010.release-novaler4kse_multi.zip
 15_OpenTR_10.2 https://www.novaler.com/uploads/enigmase/opentr/opentr-10.2r2-novaler4kse_usb.zip
 16_Hyperion_9.3 https://www.novaler.com/uploads/enigmase/pkt/zukonMOD-Hyperion-9.3-novaler4kse-git32549-svn4694_multi.zip
-17_SatLodge_9.0 https://www.novaler.com/uploads/enigmase/satlodge/satlodge-9.0a-novaler4kse_usb.zip
+17_SatLodge_9.0 https://www.novaler.com/uploads/enigmase/satlodge/satlodge-9.0b-novaler4kse_usb.zip
 18_OpenEight_6.8 https://novaler.com/uploads/enigmase/openeight/openeight-6.8-novaler4kse-20221109_multi.zip
 19_TeamBlue_7.3 https://www.novaler.com/uploads/enigmase/teamblue/teamblue-7.3-novaler4kse-20230722_multi.zip
 20_Cobraliberosat https://www.novaler.com/uploads/enigmase/cobralibero/cobraliberosat-9.0-novaler4kse_usb.zip
