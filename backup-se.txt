@@ -21,7 +21,7 @@
 01_Openatv_7.3 https://images.mynonpublic.com/openatv/7.3/current.php?open=novaler4kse
 02_Openatv_7.4_devel https://novaler.com/uploads/enigmase/openatv/openatv-7.4-devel-novaler4kse-20231025_multi.zip
 03_OpenPli_8.3 https://downloads.openpli.org/builds/multiboxse/openpli-8.3-release-multiboxse-20231117_emmc.zip
-04_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20231121_emmc.zip
+04_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20231126_emmc.zip
 05_OpenPLi_9.0 https://downloads.openpli.org/builds/multiboxse/openpli-9.0-release-multiboxse-20231120_emmc.zip
 06_OpenDroid_7.3 https://www.novaler.com/uploads/enigmase/opendroid/opendroid-7.3-novaler4kse-r20231113_multi.zip
 07_Openbh_5.3 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.3.012.release-novaler4kse_multi.zip 
