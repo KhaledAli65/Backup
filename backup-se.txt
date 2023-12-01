@@ -2,7 +2,7 @@
 ===KhaledAli_NovalerSE_Cloud=== https://khaledali.com
 01_Backup_Openatv_7.3_25112023 https://dl.dropboxusercontent.com/s/9ifnsbxsd4rpw2b/openatv7.3-novaler4kse-backup-by_KhaledAli.zip?dl=0
 02_Backup_Openatv_7.4_devel_27112023 https://dl.dropboxusercontent.com/scl/fi/6fvvm9yw4e72lranaay2e/openatv-7.4-devel-novaler4kse-backup-by_KhaledAli.zip?rlkey=jkjjdqdptvyqv8lgdbtczvg23&dl=0
-03_Backup_OpenPli_9.0_11112023 https://dl.dropboxusercontent.com/s/0r32kg91avelgb8/openpli-novaler4kse-backup-by_KhaledAli.zip?dl=0
+03_Backup_OpenPli_9.0_02122023 https://dl.dropboxusercontent.com/s/0r32kg91avelgb8/openpli-novaler4kse-backup-by_KhaledAli.zip?dl=0
 04_Backup_OpenPli_8.3_04112023 https://dl.dropboxusercontent.com/scl/fi/r3taiwl0e7js67axtqu5y/openpli-8.3-novaler4kse-backup-by_KhaledAli.zip?rlkey=n67t5zetwb3egjj8waud26xi9&dl=0
 05_Backup_OpenPLi_dev_26112023 https://dl.dropboxusercontent.com/s/nvl52ssbp30xc1g/openpli-dev-novaler4kse-backup-by_KhaledAli.zip?dl=0
 06_Backup_Openbh_5.3_28112023 https://dl.dropboxusercontent.com/s/4zqg0ofrg6yy2kj/openbh-novaler4kse-backup-by_KhaledAli.zip?dl=0 
@@ -12,7 +12,7 @@
 10_Backup_OpenVision_13.1_29112023 https://dl.dropboxusercontent.com/s/lvukuujjees2jmy/openvision-novaler4kse-backup-by_KhaledAli.zip?dl=0
 11_Backup_OpenHDF_7.3_27102023 https://dl.dropboxusercontent.com/s/4lo0u03xhd571ag/openhdf-novaler4kse-backup-by_KhaledAli.zip?dl=0
 12_Backup_OpenSpa_8.3_01122023 https://dl.dropboxusercontent.com/s/22zepkcbxlttnz0/openspa-novaler4kse-backup-by_KhaledAli.zip?dl=0
-13_Backup_OpenVIX_6.4_07102023 https://dl.dropboxusercontent.com/s/5hd7t80flotif8e/openvix-novaler4kse-backup-by_KhaledAli.zip?dl=0
+13_Backup_OpenVIX_6.4_02122023 https://dl.dropboxusercontent.com/s/5hd7t80flotif8e/openvix-novaler4kse-backup-by_KhaledAli.zip?dl=0
 14_Backup_OpenTR_10.2_19112023 https://dl.dropboxusercontent.com/s/kp0g25l9em3rm80/openTR-novaler4kse-backup-by_KhaledAli.zip?dl=0
 15_Backup_Hyperion_9.2_22092023 https://dl.dropboxusercontent.com/s/8ll48076ytruegb/Hyperion-novaler4kse-backup-by_KhaledAli.zip?dl=0
 16_Backup_CobraLiberoSat_08102023 https://dl.dropboxusercontent.com/s/nmvmrfc0gcy4qnn/cobraliberosat-novaler4kse-backup-by_KhaledAli.zip?dl=0
