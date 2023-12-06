@@ -21,10 +21,10 @@
 ===KhaledAli_NovalerSE_Crude=== https://khaledali.com
 01_Openatv_7.3 https://images.mynonpublic.com/openatv/7.3/current.php?open=novaler4kse
 02_Openatv_7.4_devel https://novaler.com/uploads/enigmase/openatv/openatv-7.4-devel-novaler4kse-20231025_multi.zip
-03_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20231128_emmc.zip
-04_OpenPLi_9.0 https://downloads.openpli.org/builds/multiboxse/openpli-9.0-release-multiboxse-20231127_emmc.zip
+03_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20231206_emmc.zip
+04_OpenPLi_9.0 https://downloads.openpli.org/builds/multiboxse/openpli-9.0-release-multiboxse-20231204_emmc.zip
 05_OpenDroid_7.3 https://www.novaler.com/uploads/enigmase/opendroid/opendroid-7.3-novaler4kse-r20231113_multi.zip
-06_Openbh_5.3 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.3.012.release-novaler4kse_multi.zip 
+06_Openbh_5.3 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.3.013.release-novaler4kse_multi.zip 
 07_Egami_10.4 https://image.egami-image.com/10.4/novaler4kse/egami-10.4-r14-novaler4kse-20231128_multi.zip
 08_PurE2_7.3 https://dl.dropboxusercontent.com/scl/fi/ifd3uxgpr1rz9q0aesdrp/novaler4kse-PurE2-7.3-20231127_multi.zip?rlkey=wqoewre1pzsoh1xi2hw6l1bv3&dl=0
 09_OpenVision_13.1 https://images.openvision.dedyn.io/13.1/Develop/Vision/MaxyTec/multiboxse/openvision-e2-develop-py3.11-13.1-r549-multiboxse-20230715_usb.zip
