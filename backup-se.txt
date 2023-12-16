@@ -21,8 +21,8 @@
 ===KhaledAli_NovalerSE_Crude=== https://khaledali.com
 01_Openatv_7.3 https://images.mynonpublic.com/openatv/7.3/current.php?open=novaler4kse
 02_Openatv_7.4_devel https://novaler.com/uploads/enigmase/openatv/openatv-7.4-devel-novaler4kse-20231025_multi.zip
-03_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20231206_emmc.zip
-04_OpenPLi_9.0 https://downloads.openpli.org/builds/multiboxse/openpli-9.0-release-multiboxse-20231204_emmc.zip
+03_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20231215_emmc.zip
+04_OpenPLi_9.0 https://downloads.openpli.org/builds/multiboxse/openpli-9.0-release-multiboxse-20231211_emmc.zip
 05_OpenDroid_7.3 https://www.novaler.com/uploads/enigmase/opendroid/opendroid-7.3-novaler4kse-r20231113_multi.zip
 06_Openbh_5.3 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.3.014.release-novaler4kse_multi.zip 
 07_Egami_10.4 https://image.egami-image.com/10.4/novaler4kse/egami-10.4-r15-novaler4kse-20231213_multi.zip
@@ -43,7 +43,7 @@
 01_openatv_7.3 https://www.novaler.com/uploads/enigmase/openatv/openatv-7.3-novaler4kse-backup-20231209_usb.zip
 02_Openatv_7.4 https://www.novaler.com/uploads/enigmase/openatv/openatv-7.4-devel-novaler4kse-backup-20231031_usb.zip
 03_openpli_9 https://www.novaler.com/uploads/enigmase/openpli/openpli-develop-novaler4kse-backup-20231206_usb.zip
-04_Egami_10.4 https://www.novaler.com/uploads/enigmase/egami/egami-10.4.r11-novaler4kse-backup-20231112_usb.zip
+04_Egami_10.4 https://www.novaler.com/uploads/enigmase/egami/egami-10.4.r15-novaler4kse-backup-20231214_usb.zip
 05_PurE2_7.3 https://www.novaler.com/uploads/enigmase/pure2/pure2-7.3-novaler4kse-backup-20231111_usb.zip
 06_OpenBH_5.3 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.3-011-novaler4kse-backup-20231109_mmc.zip
 ===KhaledAli_NovalerSE_BOOT_5=== https://khaledali.com
