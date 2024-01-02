@@ -50,5 +50,5 @@
 01_Openpli_9.0_BOOT_5 https://www.novaler.com/uploads/enigmase/boot5/openpli-9.0-multibox4kse-boot5.zip
 02_Openpli_dev_BOOT_5 https://www.novaler.com/uploads/enigmase/boot5/openpli-develop-multiboxse-boot5.zip
 ===KhaledAli_NovalerSE_Android=== https://khaledali.com
-01_Android_SE https://www.novaler.com/uploads/flashes/Android-v2022-multiboxse.zip
+01_Android_7_SE https://www.novaler.com/uploads/flashes/Android-v2022-multiboxse.zip
 02_Android_8_SE https://novaler.com/uploads/flashes/Android8.0_recovery3.53_multibox4kse_01012024.zip
