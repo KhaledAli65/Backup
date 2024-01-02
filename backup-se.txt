@@ -20,9 +20,9 @@
 18_Backup_SatLodge_19112023 https://dl.dropboxusercontent.com/scl/fi/2tk8x4nrsycvmcu77ab52/Satlodge-novaler4kse-backup-by_KhaledAli.zip?rlkey=6xhzf5tbqc1oe4exho7unpng7&dl=0
 ===KhaledAli_NovalerSE_Crude=== https://khaledali.com
 01_Openatv_7.3 https://images.mynonpublic.com/openatv/7.3/current.php?open=novaler4kse
-02_Openatv_7.4_devel https://novaler.com/uploads/enigmase/openatv/openatv-7.4-devel-novaler4kse-20231025_multi.zip
-03_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20231219_emmc.zip
-04_OpenPLi_9.0 https://downloads.openpli.org/builds/multiboxse/openpli-9.0-release-multiboxse-20231218_emmc.zip
+02_Openatv_7.4_beta https://images.mynonpublic.com/openatv/7.4/novaler4kse/openatv-7.4-novaler4kse-20231231_multi.zip
+03_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20240101_emmc.zip
+04_OpenPLi_9.0 https://downloads.openpli.org/builds/multiboxse/openpli-9.0-release-multiboxse-20240102_emmc.zip
 05_OpenDroid_7.3 https://www.novaler.com/uploads/enigmase/opendroid/opendroid-7.3-novaler4kse-r20231113_multi.zip
 06_Openbh_5.3 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.3.014.release-novaler4kse_multi.zip 
 07_Egami_10.4 https://image.egami-image.com/10.4/novaler4kse/egami-10.4-r15-novaler4kse-20231213_multi.zip
