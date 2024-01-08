@@ -1,10 +1,10 @@
 ========Welcome======== https://khaledali.com
 ===KhaledAli_NovalerSE_Cloud=== https://khaledali.com
 01_Backup_Openatv_7.3_08012024 https://dl.dropboxusercontent.com/s/9ifnsbxsd4rpw2b/openatv7.3-novaler4kse-backup-by_KhaledAli.zip?dl=0
-02_Backup_Openatv_7.4_30122023 https://dl.dropboxusercontent.com/scl/fi/t6b0u9dd49f9rwmk54ua3/openatv-7.4-novaler4kse-backup-by_KhaledAli.zip?rlkey=zvst2bi2ofbkegc74qtr24mte&dl=0
-03_Backup_OpenPli_9.0_02122023 https://dl.dropboxusercontent.com/s/0r32kg91avelgb8/openpli-novaler4kse-backup-by_KhaledAli.zip?dl=0
-04_Backup_OpenPli_8.3_04112023 https://dl.dropboxusercontent.com/scl/fi/r3taiwl0e7js67axtqu5y/openpli-8.3-novaler4kse-backup-by_KhaledAli.zip?rlkey=n67t5zetwb3egjj8waud26xi9&dl=0
-05_Backup_OpenPLi_dev_17122023 https://dl.dropboxusercontent.com/s/nvl52ssbp30xc1g/openpli-dev-novaler4kse-backup-by_KhaledAli.zip?dl=0
+02_Backup_Openatv_7.4_08012024 https://dl.dropboxusercontent.com/scl/fi/t6b0u9dd49f9rwmk54ua3/openatv-7.4-novaler4kse-backup-by_KhaledAli.zip?rlkey=zvst2bi2ofbkegc74qtr24mte&dl=0
+03_Backup_OpenPli_9.0_08012024 https://dl.dropboxusercontent.com/s/0r32kg91avelgb8/openpli-novaler4kse-backup-by_KhaledAli.zip?dl=0
+04_Backup_OpenPli_8.3_08012024 https://dl.dropboxusercontent.com/scl/fi/r3taiwl0e7js67axtqu5y/openpli-8.3-novaler4kse-backup-by_KhaledAli.zip?rlkey=n67t5zetwb3egjj8waud26xi9&dl=0
+05_Backup_OpenPLi_dev_08012024 https://dl.dropboxusercontent.com/s/nvl52ssbp30xc1g/openpli-dev-novaler4kse-backup-by_KhaledAli.zip?dl=0
 06_Backup_Openbh_5.3_09122023 https://dl.dropboxusercontent.com/s/4zqg0ofrg6yy2kj/openbh-novaler4kse-backup-by_KhaledAli.zip?dl=0 
 07_Backup_Openbh_5.4_06012024 https://dl.dropboxusercontent.com/scl/fi/1m73ogauk0h4k09rcj81u/openbh_5.4-novaler4kse-backup-by_KhaledAli.zip?rlkey=4tahy0kluli5eki5amnebyco6&dl=0
 08_Backup_Egami_10.4_16122023 https://dl.dropboxusercontent.com/s/twaop8zedabvd42/egami-novaler4kse-backup-by_KhaledAli.zip?dl=0
@@ -30,7 +30,7 @@
 08_PurE2_7.3 https://www.novaler.com/uploads/enigmase/pure2/novaler4kse-PurE2-7.3-20231208_multi.zip
 09_OpenVision_13.1 https://images.openvision.dedyn.io/13.1/Develop/Vision/MaxyTec/multiboxse/openvision-e2-develop-py3.11-13.1-r549-multiboxse-20230715_usb.zip
 10_OpenHDF_7.3 https://www.novaler.com/uploads/enigmase/openhdf/openhdf-7.3-novaler4kse-38-20231209_multi.zip
-11_OpenSpa_8.3 https://www.novaler.com/uploads/enigmase/openspa/openspa-8.3.003-novaler4kse-20231217_usb.zip
+11_OpenSpa_8.3 https://www.novaler.com/uploads/enigmase/openspa/openspa-8.3.004-novaler4kse-20240108_multi.zip
 12_Open_VIX_6.4 https://www.novaler.com/uploads/enigmase/openvix/openvix-6.4.010.release-novaler4kse_multi.zip
 13_OpenTR_10.2 https://www.novaler.com/uploads/enigmase/opentr/opentr-10.2r2-novaler4kse_usb.zip
 14_Hyperion_9.3 https://www.novaler.com/uploads/enigmase/pkt/zukonMOD-Hyperion-9.3-novaler4kse-git32549-svn4694_multi.zip
