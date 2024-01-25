@@ -53,3 +53,6 @@
 ===KhaledAli_NovalerSE_Android=== https://khaledali.com
 01_Android_7_SE https://www.novaler.com/uploads/flashes/Android-v2022-multiboxse.zip
 02_Android_8_SE https://novaler.com/uploads/flashes/Android8.0_recovery3.53_multibox4kse_01012024.zip
+===KhaledAli_NovalerSE_Recovery=== https://khaledali.com
+01_Recovery_2.4_SE https://dl.dropboxusercontent.com/scl/fi/sgobe0rca2aegli4zxq3y/novaler-multibox4kse-20230814_recovery_emmc_v2.4.zip?rlkey=63m39klm9r51oo02rb12m93kj&dl=0
+01_Recovery_3.18_SE https://dl.dropboxusercontent.com/scl/fi/7calopou3ufv1d9yboaom/novaler-multibox4kse-20240114_recovery_emmc_v3.18.zip?rlkey=dzv4p3bgtc2woch4bn0e1lh8v&dl=0
