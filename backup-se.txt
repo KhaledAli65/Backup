@@ -19,7 +19,7 @@
 17_Backup_CobraLiberoSat_08102023 https://dl.dropboxusercontent.com/s/nmvmrfc0gcy4qnn/cobraliberosat-novaler4kse-backup-by_KhaledAli.zip?dl=0
 18_Backup_NonSoloSat_11102023 https://dl.dropboxusercontent.com/s/v88k0ulci4fbg1t/nonsolosat-novaler4kse-backup-by_KhaledAli.zip?dl=0
 19_Backup_SatLodge_19112023 https://dl.dropboxusercontent.com/scl/fi/2tk8x4nrsycvmcu77ab52/Satlodge-novaler4kse-backup-by_KhaledAli.zip?rlkey=6xhzf5tbqc1oe4exho7unpng7&dl=0
-===KhaledAli_NovalerSE_Crude=== https://khaledali.com
+===KhaledAli_NovalerSE_Primary=== https://khaledali.com
 01_Openatv_7.3 https://images.mynonpublic.com/openatv/7.3/current.php?open=novaler4kse
 02_Openatv_7.4_beta https://images.mynonpublic.com/openatv/7.4/novaler4kse/openatv-7.4-novaler4kse-20240117_multi.zip
 03_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20240121_emmc.zip
@@ -55,4 +55,8 @@
 02_Android_8_SE https://novaler.com/uploads/flashes/Android8.0_recovery3.53_multibox4kse_01012024.zip
 ===KhaledAli_NovalerSE_Recovery=== https://khaledali.com
 01_Recovery_353_SE https://dl.dropboxusercontent.com/scl/fi/sgobe0rca2aegli4zxq3y/novaler-multibox4kse-20230814_recovery_emmc_v2.4.zip?rlkey=63m39klm9r51oo02rb12m93kj&dl=0
-01_Recovery_318_SE https://dl.dropboxusercontent.com/scl/fi/7calopou3ufv1d9yboaom/novaler-multibox4kse-20240114_recovery_emmc_v3.18.zip?rlkey=dzv4p3bgtc2woch4bn0e1lh8v&dl=0
+02_Recovery_318_SE https://dl.dropboxusercontent.com/scl/fi/7calopou3ufv1d9yboaom/novaler-multibox4kse-20240114_recovery_emmc_v3.18.zip?rlkey=dzv4p3bgtc2woch4bn0e1lh8v&dl=0
+03_Recovery_openatv_SE https://dl.dropboxusercontent.com/scl/fi/xfpxj13rz5uunh5an8icv/openatv_recovery_emmc.zip?rlkey=an8estadk0ggavp8gv5tf31c1&dl=0
+04_Recovery_openpli_SE https://dl.dropboxusercontent.com/scl/fi/k690xef5hu5e1yn5bju99/openpli_recovery_emmc.zip?rlkey=si7tz0j0u8fk66mb85n64vbgj&dl=0
+05_Recovery_egami_SE https://dl.dropboxusercontent.com/scl/fi/jnjjonirut700swxjp3hd/egami_recovery_emmc.zip?rlkey=0qju6iziswyk3yyt9rh9yq0z1&dl=0
+06_Recovery_purE2_SE https://dl.dropboxusercontent.com/scl/fi/v2h4h09dmf1uz86ick7me/PurE2_recovery_emmc.zip?rlkey=vo8g0xtvygg1586p38arcc7i4&dl=0
