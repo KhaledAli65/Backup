@@ -61,3 +61,7 @@
 04_Recovery_openpli_SE https://dl.dropboxusercontent.com/scl/fi/k690xef5hu5e1yn5bju99/openpli_recovery_emmc.zip?rlkey=si7tz0j0u8fk66mb85n64vbgj&dl=0
 05_Recovery_egami_SE https://dl.dropboxusercontent.com/scl/fi/jnjjonirut700swxjp3hd/egami_recovery_emmc.zip?rlkey=0qju6iziswyk3yyt9rh9yq0z1&dl=0
 06_Recovery_purE2_SE https://dl.dropboxusercontent.com/scl/fi/v2h4h09dmf1uz86ick7me/PurE2_recovery_emmc.zip?rlkey=vo8g0xtvygg1586p38arcc7i4&dl=0
+07_Recovery_openatv_7.4_SE https://dl.dropboxusercontent.com/scl/fi/8mz9odt6b6mrqe0jbbn5s/openatv-7.4_recovery_emmc.zip?rlkey=69e0kyo41w0ifp576kxdt1tfr&dl=0
+08_Recovery_openvision https://dl.dropboxusercontent.com/scl/fi/qkc34ryt8semft02z4jtd/openvision_recovery_emmc.zip?rlkey=vij8bflfjtxe6yg4uxo8tdpex&dl=0
+09_Recovery_openspa https://dl.dropboxusercontent.com/scl/fi/461umbhvqssklpzwazxfb/openspa_recovery_emmc.zip?rlkey=i8q6jyoyseogy9o6v7umnaruh&dl=0
+10_Recovery_NonSoloSat https://dl.dropboxusercontent.com/scl/fi/b9eyky119buh30lcts5vo/nonsolosat_recovery_emmc.zip?rlkey=dfr7qr23a09eohoaam8cseq0i&dl=0
