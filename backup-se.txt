@@ -1,5 +1,5 @@
-========Welcome======== https://khaledali.com
-===KhaledAli_NovalerSE_Cloud=== https://khaledali.com
+#######Welcome####### https://khaledali.com
+●●●KhaledAli_NovalerSE_Cloud●●● https://khaledali.com
 01_Backup_Openatv_7.3_17012024 https://dl.dropboxusercontent.com/s/9ifnsbxsd4rpw2b/openatv7.3-novaler4kse-backup-by_KhaledAli.zip?dl=0
 02_Backup_Openatv_7.4_08012024 https://dl.dropboxusercontent.com/scl/fi/t6b0u9dd49f9rwmk54ua3/openatv-7.4-novaler4kse-backup-by_KhaledAli.zip?rlkey=zvst2bi2ofbkegc74qtr24mte&dl=0
 03_Backup_OpenPli_9.0_08012024 https://dl.dropboxusercontent.com/s/0r32kg91avelgb8/openpli-novaler4kse-backup-by_KhaledAli.zip?dl=0
@@ -21,9 +21,9 @@
 19_Backup_SatLodge_19112023 https://dl.dropboxusercontent.com/scl/fi/2tk8x4nrsycvmcu77ab52/Satlodge-novaler4kse-backup-by_KhaledAli.zip?rlkey=6xhzf5tbqc1oe4exho7unpng7&dl=0
 ===KhaledAli_NovalerSE_Primary=== https://khaledali.com
 01_Openatv_7.3 https://images.mynonpublic.com/openatv/7.3/current.php?open=novaler4kse
-02_Openatv_7.4_beta https://images.mynonpublic.com/openatv/7.4/novaler4kse/openatv-7.4-novaler4kse-20240117_multi.zip
-03_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20240121_emmc.zip
-04_OpenPLi_9.0 https://downloads.openpli.org/builds/multiboxse/openpli-9.0-release-multiboxse-20240115_emmc.zip
+02_Openatv_7.4_beta https://images.mynonpublic.com/openatv/7.4/novaler4kse/openatv-7.4-novaler4kse-20240126_multi.zip
+03_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20240127_emmc.zip
+04_OpenPLi_9.0 https://downloads.openpli.org/builds/multiboxse/openpli-9.0-release-multiboxse-20240122_emmc.zip
 05_OpenDroid_7.3 https://www.novaler.com/uploads/enigmase/opendroid/opendroid-7.3-novaler4kse-r20231113_multi.zip
 06_Openbh_5.3 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.3.015.release-novaler4kse_multi.zip 
 07_Egami_10.4 https://image.egami-image.com/10.4/novaler4kse/egami-10.4-r15-novaler4kse-20231213_multi.zip
@@ -53,6 +53,7 @@
 ===KhaledAli_NovalerSE_Android=== https://khaledali.com
 01_Android_7_SE https://www.novaler.com/uploads/flashes/Android-v2022-multiboxse.zip
 02_Android_8_SE https://novaler.com/uploads/flashes/Android8.0_recovery3.53_multibox4kse_01012024.zip
+03_Android_7_old_SE https://downloads.openpli.org/builds/multiboxse/android-multiboxse-20190719.zip
 ===KhaledAli_NovalerSE_Recovery=== https://khaledali.com
 01_Recovery_353_SE https://dl.dropboxusercontent.com/scl/fi/sgobe0rca2aegli4zxq3y/novaler-multibox4kse-20230814_recovery_emmc_v2.4.zip?rlkey=63m39klm9r51oo02rb12m93kj&dl=0
 02_Recovery_318_SE https://dl.dropboxusercontent.com/scl/fi/7calopou3ufv1d9yboaom/novaler-multibox4kse-20240114_recovery_emmc_v3.18.zip?rlkey=dzv4p3bgtc2woch4bn0e1lh8v&dl=0
