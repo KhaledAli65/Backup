@@ -22,11 +22,11 @@
 ===KhaledAli_NovalerSE_Primary=== https://khaledali.com
 01_Openatv_7.3 https://images.mynonpublic.com/openatv/7.3/current.php?open=novaler4kse
 02_Openatv_7.4_beta https://images.mynonpublic.com/openatv/7.4/current.php?open=novaler4kse
-03_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20240203_emmc.zip
-04_OpenPLi_9.0 https://downloads.openpli.org/builds/multiboxse/openpli-9.0-release-multiboxse-20240129_emmc.zip
+03_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20240207_emmc.zip
+04_OpenPLi_9.0 https://downloads.openpli.org/builds/multiboxse/openpli-9.0-release-multiboxse-20240205_emmc.zip
 05_OpenDroid_7.3 https://www.novaler.com/uploads/enigmase/opendroid/opendroid-7.3-novaler4kse-r20231113_multi.zip
 06_Openbh_5.3 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.3.015.release-novaler4kse_multi.zip 
-07_Egami_10.5 https://image.egami-image.com/10.5/novaler4kse/egami-10.5-r1-novaler4kse-20240128_multi.zip
+07_Egami_10.5 https://image.egami-image.com/10.5/novaler4kse/egami-10.5-r2-novaler4kse-20240203_multi.zip
 08_PurE2_7.3 https://www.novaler.com/uploads/enigmase/pure2/novaler4kse-PurE2-7.3-20231208_multi.zip
 09_OpenVision_13.1 https://images.openvision.dedyn.io/13.1/Develop/Vision/MaxyTec/multiboxse/openvision-e2-develop-py3.11-13.1-r549-multiboxse-20230715_usb.zip
 10_OpenHDF_7.3 https://www.novaler.com/uploads/enigmase/openhdf/openhdf-7.3-novaler4kse-46-20240203_multi.zip
@@ -34,7 +34,7 @@
 12_Open_VIX_6.5 https://www.novaler.com/uploads/enigmase/openvix/openvix-6.5.000.release-novaler4kse_multi.zip
 13_OpenTR_10.2 https://www.novaler.com/uploads/enigmase/opentr/opentr-10.2r2-novaler4kse_usb.zip
 14_Hyperion_9.3 https://www.novaler.com/uploads/enigmase/pkt/zukonMOD-Hyperion-9.3-novaler4kse-git32549-svn4694_multi.zip
-15_SatLodge_9.0 https://www.novaler.com/uploads/enigmase/satlodge/satlodge-9.0b-novaler4kse_usb.zip
+15_SatLDrwamGR_10.0 https://www.novaler.com/uploads/enigmase/satdreamgr/satdreamgr-10-novaler4kse-20240207_usb.zip
 16_OpenEight_6.8 https://novaler.com/uploads/enigmase/openeight/openeight-6.8-novaler4kse-20221109_multi.zip
 17_TeamBlue_7.3 https://www.novaler.com/uploads/enigmase/teamblue/teamblue-7.3-novaler4kse-20230722_multi.zip
 18_Cobraliberosat https://www.novaler.com/uploads/enigmase/cobralibero/cobraliberosat-9.0-multiboxse_usb.zip
