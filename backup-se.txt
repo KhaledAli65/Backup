@@ -19,7 +19,7 @@
 17_Backup_CobraLiberoSat_08102023 https://dl.dropboxusercontent.com/s/nmvmrfc0gcy4qnn/cobraliberosat-novaler4kse-backup-by_KhaledAli.zip?dl=0
 18_Backup_NonSoloSat_11102023 https://dl.dropboxusercontent.com/s/v88k0ulci4fbg1t/nonsolosat-novaler4kse-backup-by_KhaledAli.zip?dl=0
 19_Backup_SatLodge_19112023 https://dl.dropboxusercontent.com/scl/fi/2tk8x4nrsycvmcu77ab52/Satlodge-novaler4kse-backup-by_KhaledAli.zip?rlkey=6xhzf5tbqc1oe4exho7unpng7&dl=0
-===KhaledAli_NovalerSE_Primary=== https://khaledali.com
+===KhaledAli_NovalerSE_RAW=== https://khaledali.com
 01_Openatv_7.3 https://images.mynonpublic.com/openatv/7.3/current.php?open=novaler4kse
 02_Openatv_7.4_beta https://images.mynonpublic.com/openatv/7.4/current.php?open=novaler4kse
 03_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20240207_emmc.zip
