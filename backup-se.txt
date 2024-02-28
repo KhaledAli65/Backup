@@ -22,8 +22,8 @@
 ===KhaledAli_NovalerSE_RAW=== https://khaledali.com
 01_Openatv_7.3 https://images.mynonpublic.com/openatv/7.3/current.php?open=novaler4kse
 02_Openatv_7.4_beta https://images.mynonpublic.com/openatv/7.4/current.php?open=novaler4kse
-03_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20240220_emmc.zip
-04_OpenPLi_9.0 https://downloads.openpli.org/builds/multiboxse/openpli-9.0-release-multiboxse-20240219_emmc.zip
+03_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20240227_emmc.zip
+04_OpenPLi_9.0 https://downloads.openpli.org/builds/multiboxse/openpli-9.0-release-multiboxse-20240226_emmc.zip
 05_OpenDroid_7.3 https://www.novaler.com/uploads/enigmase/opendroid/opendroid-7.3-novaler4kse-r20240203_multi.zip
 06_Openbh_5.3 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.3.016.release-novaler4kse_multi.zip 
 07_Egami_10.5 https://image.egami-image.com/10.5/novaler4kse/egami-10.5-r2-novaler4kse-20240203_multi.zip
@@ -32,7 +32,7 @@
 10_OpenHDF_7.3 https://www.novaler.com/uploads/enigmase/openhdf/openhdf-7.3-novaler4kse-46-20240203_multi.zip
 11_OpenSpa_8.3 https://www.novaler.com/uploads/enigmase/openspa/openspa-8.3.004-novaler4kse-20240108_multi.zip
 12_Open_VIX_6.5 https://www.novaler.com/uploads/enigmase/openvix/openvix-6.5.000.release-novaler4kse_multi.zip
-13_OpenTR_10.2 https://www.novaler.com/uploads/enigmase/opentr/opentr-10.2r2-novaler4kse_usb.zip
+13_OpenTR_11.0 https://www.novaler.com/uploads/enigmase/opentr/opentr-11.0r0-novaler4kse-20240225_usb.zip
 14_Hyperion_9.3 https://www.novaler.com/uploads/enigmase/pkt/zukonMOD-Hyperion-9.3-novaler4kse-git32549-svn4694_multi.zip
 15_SatDreamGR_10.0 https://www.novaler.com/uploads/enigmase/satdreamgr/satdreamgr-10-novaler4kse-20240207_usb.zip
 16_OpenEight_6.8 https://novaler.com/uploads/enigmase/openeight/openeight-6.8-novaler4kse-20221109_multi.zip
@@ -57,7 +57,7 @@
 01_Recovery_353_SE https://dl.dropboxusercontent.com/scl/fi/sgobe0rca2aegli4zxq3y/novaler-multibox4kse-20230814_recovery_emmc_v2.4.zip?rlkey=63m39klm9r51oo02rb12m93kj&dl=0
 02_Recovery_318_SE https://dl.dropboxusercontent.com/scl/fi/7calopou3ufv1d9yboaom/novaler-multibox4kse-20240114_recovery_emmc_v3.18.zip?rlkey=dzv4p3bgtc2woch4bn0e1lh8v&dl=0
 03_Recovery_openatv_SE https://dl.dropboxusercontent.com/scl/fi/xfpxj13rz5uunh5an8icv/openatv_recovery_emmc.zip?rlkey=an8estadk0ggavp8gv5tf31c1&dl=0
-04_Recovery_openpli_SE https://dl.dropboxusercontent.com/scl/fi/k690xef5hu5e1yn5bju99/openpli_recovery_emmc.zip?rlkey=si7tz0j0u8fk66mb85n64vbgj&dl=0
+04_Recovery_openpli_SE https://downloads.openpli.org/builds/multiboxse/openpli-9.0-release-multiboxse-20240226_recovery_emmc.zip
 05_Recovery_egami_SE https://image.egami-image.com/10.5/novaler4kse/egami-10.5-r1-novaler4kse-20240128_recovery_emmc.zip
 06_Recovery_purE2_SE https://dl.dropboxusercontent.com/scl/fi/v2h4h09dmf1uz86ick7me/PurE2_recovery_emmc.zip?rlkey=vo8g0xtvygg1586p38arcc7i4&dl=0
 07_Recovery_openatv_7.4_SE https://dl.dropboxusercontent.com/scl/fi/8mz9odt6b6mrqe0jbbn5s/openatv-7.4_recovery_emmc.zip?rlkey=69e0kyo41w0ifp576kxdt1tfr&dl=0
