@@ -43,10 +43,12 @@
 ===KhaledAli_NovalerSE_Official=== https://khaledali.com
 01_openatv_7.3 https://www.novaler.com/uploads/enigmase/openatv/openatv-7.3-novaler4kse-backup-20240118_usb.zip
 02_OpenSPA_8.3 https://www.novaler.com/uploads/enigmase/openspa/openspa-8.3-novaler4kse-backup-20240118_usb.zip
-03_openpli_9 https://www.novaler.com/uploads/enigmase/openpli/openpli-develop-novaler4kse-backup-20240118_usb.zip
+03_openpli_9 https://www.novaler.com/uploads/enigmase/openpli/openpli-develop-novaler4kse-backup-20240303_usb.zip
 04_Egami_10.4 https://www.novaler.com/uploads/enigmase/egami/egami-10.4.r15-novaler4kse-backup-20240118_usb.zip
-05_PurE2_7.3 https://www.novaler.com/uploads/enigmase/pure2/pure2-7.3-novaler4kse-backup-20240118_usb.zip
+05_PurE2_7.3 https://www.novaler.com/uploads/enigmase/pure2/pure2-7.3-novaler4kse-backup-20240304_usb.zip
 06_OpenBH_5.3 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.3-novaler4kse-backup-20240118_usb.zip
+07_SatDreamGR_10 https://www.novaler.com/uploads/enigmase/satdreamgr/satdreamgr-10-novaler4kse-backup-20240207_usb.zip
+08_NonSoloSat_30 https://www.novaler.com/uploads/enigmase/nonsolosat/nonsolosat-30-py3-novaler4kse-backup-20240211_usb.zip
 ===KhaledAli_NovalerSE_BOOT_5=== https://khaledali.com
 01_Openpli_9.0_BOOT_5 https://www.novaler.com/uploads/enigmase/boot5/openpli-9.0-multibox4kse-boot5.zip
 02_Openpli_dev_BOOT_5 https://www.novaler.com/uploads/enigmase/boot5/openpli-develop-multiboxse-boot5.zip
