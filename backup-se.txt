@@ -1,13 +1,13 @@
 #######Welcome####### https://khaledali.com
-●●●KhaledAli_NovalerSE_Cloud●●● https://khaledali.com
+===KhaledAli_NovalerSE_Cloud=== https://khaledali.com
 01_Backup_Openatv_7.3_02032024 https://dl.dropboxusercontent.com/s/9ifnsbxsd4rpw2b/openatv7.3-novaler4kse-backup-by_KhaledAli.zip?dl=0
 02_Backup_Openatv_7.4_11032024 https://dl.dropboxusercontent.com/scl/fi/t6b0u9dd49f9rwmk54ua3/openatv-7.4-novaler4kse-backup-by_KhaledAli.zip?rlkey=zvst2bi2ofbkegc74qtr24mte&dl=0
 03_Backup_OpenPli_9.0_10032024 https://dl.dropboxusercontent.com/s/0r32kg91avelgb8/openpli-novaler4kse-backup-by_KhaledAli.zip?dl=0
-04_Backup_OpenPli_8.3_08012024 https://dl.dropboxusercontent.com/scl/fi/r3taiwl0e7js67axtqu5y/openpli-8.3-novaler4kse-backup-by_KhaledAli.zip?rlkey=n67t5zetwb3egjj8waud26xi9&dl=0
+04_Backup_OpenPli_8.3_11032024 https://dl.dropboxusercontent.com/scl/fi/r3taiwl0e7js67axtqu5y/openpli-8.3-novaler4kse-backup-by_KhaledAli.zip?rlkey=n67t5zetwb3egjj8waud26xi9&dl=0
 05_Backup_OpenPLi_dev_02032024 https://dl.dropboxusercontent.com/s/nvl52ssbp30xc1g/openpli-dev-novaler4kse-backup-by_KhaledAli.zip?dl=0
 06_Backup_Openbh_5.3_10032024 https://dl.dropboxusercontent.com/s/4zqg0ofrg6yy2kj/openbh-novaler4kse-backup-by_KhaledAli.zip?dl=0 
 07_Backup_Openbh_5.4_06012024 https://dl.dropboxusercontent.com/scl/fi/1m73ogauk0h4k09rcj81u/openbh_5.4-novaler4kse-backup-by_KhaledAli.zip?rlkey=4tahy0kluli5eki5amnebyco6&dl=0
-08_Backup_Egami_10.5_09022024 https://dl.dropboxusercontent.com/s/twaop8zedabvd42/egami-novaler4kse-backup-by_KhaledAli.zip?dl=0
+08_Backup_Egami_10.5_11032024 https://dl.dropboxusercontent.com/s/twaop8zedabvd42/egami-novaler4kse-backup-by_KhaledAli.zip?dl=0
 09_Backup_OpenDroid_7.3_20022024 https://dl.dropboxusercontent.com/s/u0eqp0r8s1e5htt/opendroid-novaler4kse-backup-by_KhaledAli.zip?dl=0
 10_Backup_PurE2_7.3_11032024 https://dl.dropboxusercontent.com/s/v2s50bet8zd5e7n/pure2-novaler4kse-backup-by_KhaledAli.zip?dl=0
 11_Backup_OpenVision_13.1_29112023 https://dl.dropboxusercontent.com/s/lvukuujjees2jmy/openvision-novaler4kse-backup-by_KhaledAli.zip?dl=0
