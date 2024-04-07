@@ -21,7 +21,7 @@
 ===KhaledAli_NovalerSE_RAW=== https://khaledali.com
 01_Openatv_7.3 https://images.mynonpublic.com/openatv/7.3/current.php?open=novaler4kse
 02_Openatv_7.4_beta https://images.mynonpublic.com/openatv/7.4/current.php?open=novaler4kse
-03_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20240403_emmc.zip
+03_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20240407_emmc.zip
 04_OpenPLi_9.0 https://downloads.openpli.org/builds/multiboxse/openpli-9.0-release-multiboxse-20240402_emmc.zip
 05_OpenDroid_7.3 https://www.novaler.com/uploads/enigmase/opendroid/opendroid-7.3-novaler4kse-r20240203_multi.zip
 06_Openbh_5.4 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.4.000.release-novaler4kse_multi.zip 
