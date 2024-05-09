@@ -70,6 +70,8 @@
 05_Recovery_egami_SE https://image.egami-image.com/10.5/novaler4kse/egami-10.5-r4-novaler4kse-20240412_recovery_emmc.zip
 06_Recovery_purE2_SE https://dl.dropboxusercontent.com/scl/fi/v2h4h09dmf1uz86ick7me/PurE2_recovery_emmc.zip?rlkey=vo8g0xtvygg1586p38arcc7i4&dl=0
 07_Recovery_openatv_7.4_SE https://images.mynonpublic.com/openatv/7.4/novaler4kse/openatv-7.4-novaler4kse-20240501_recovery_emmc.zip
-08_Recovery_openvision https://dl.dropboxusercontent.com/scl/fi/qkc34ryt8semft02z4jtd/openvision_recovery_emmc.zip?rlkey=vij8bflfjtxe6yg4uxo8tdpex&dl=0
-09_Recovery_openspa https://dl.dropboxusercontent.com/scl/fi/461umbhvqssklpzwazxfb/openspa_recovery_emmc.zip?rlkey=i8q6jyoyseogy9o6v7umnaruh&dl=0
-10_Recovery_NonSoloSat https://dl.dropboxusercontent.com/scl/fi/b9eyky119buh30lcts5vo/nonsolosat_recovery_emmc.zip?rlkey=dfr7qr23a09eohoaam8cseq0i&dl=0
+===KhaledAli_NovalerSE_Recovery_logo=== https://khaledali.com
+01_LOGO01 https://gitlab.com/novaler/novaler/-/raw/main/Boot%20logo/multiboxse.zip
+02_LOGO02 https://gitlab.com/novaler/novaler/-/raw/main/Boot%20logo/multiboxse2.zip
+03_LOGO03 https://gitlab.com/novaler/novaler/-/raw/main/Boot%20logo/multiboxse3.zip
+04_LOGO04 https://gitlab.com/novaler/novaler/-/raw/main/Boot%20logo/multiboxse4.zip
