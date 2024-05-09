@@ -7,7 +7,7 @@
 05_Backup_OpenPLi_dev_09052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openpli-dev-novaler4kse-backup-by_KhaledAli.zip
 06_Backup_Openbh_5.3_11042024 https://dl.dropboxusercontent.com/s/4zqg0ofrg6yy2kj/openbh-novaler4kse-backup-by_KhaledAli.zip?dl=0 
 07_Backup_Openbh_5.4_18042024 https://dl.dropboxusercontent.com/scl/fi/1m73ogauk0h4k09rcj81u/openbh_5.4-novaler4kse-backup-by_KhaledAli.zip?rlkey=4tahy0kluli5eki5amnebyco6&dl=0 
-08_Backup_Egami_10.5_21042024 https://dl.dropboxusercontent.com/s/twaop8zedabvd42/egami-novaler4kse-backup-by_KhaledAli.zip?dl=0
+08_Backup_Egami_10.5_21042024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/egami-novaler4kse-backup-by_KhaledAli.zip
 09_Backup_PurE2_7.3_22042024 https://dl.dropboxusercontent.com/s/v2s50bet8zd5e7n/pure2-novaler4kse-backup-by_KhaledAli.zip?dl=0
 10_Backup_OpenSpa_8.3_04052024 https://dl.dropboxusercontent.com/s/22zepkcbxlttnz0/openspa-novaler4kse-backup-by_KhaledAli.zip?dl=0
 11_Backup_OpenVIX_6.5_03052024 https://dl.dropboxusercontent.com/s/5hd7t80flotif8e/openvix-novaler4kse-backup-by_KhaledAli.zip?dl=0
@@ -57,7 +57,7 @@
 12_NonSoloSat_30 https://www.novaler.com/uploads/enigmase/nonsolosat/nonsolosat-30-py3-novaler4kse-backup-20240211_usb.zip
 13_OpenVix_6.5 https://www.novaler.com/uploads/enigmase/openvix/openvix-6.5-003-novaler4kse-backup-20240425_mmc.zip
 ===KhaledAli_NovalerSE_BOOT_5=== https://khaledali.com
-01_Openpli_9.0_BOOT_5 https://www.novaler.com/uploads/enigmase/boot5/openpli-9.0-multibox4kse-boot5.zip
+01_Openpli_9.0_BOOT_5 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openpli-9.0-multibox4kse-boot5.zip
 02_Openpli_dev_BOOT_5 https://www.novaler.com/uploads/enigmase/boot5/openpli-develop-multiboxse-boot5.zip
 ===KhaledAli_NovalerSE_Android=== https://khaledali.com
 01_Android_7_SE https://www.novaler.com/uploads/flashes/Android-v2022-multiboxse.zip
