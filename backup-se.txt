@@ -17,7 +17,7 @@
 15_Backup_OpenTR_10.2_12052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openTR-novaler4kse-backup-by_KhaledAli.zip
 16_Backup_Hyperion_9.2_04042024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/Hyperion-novaler4kse-backup-by_KhaledAli.zip
 17_Backup_CobraLiberoSat_08102023 https://gitlab.com/novaler/novaler/-/raw/main/Backup/cobraliberosat-novaler4kse-backup-by_KhaledAli.zip
-18_Backup_NonSoloSat_02052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/nonsolosat-novaler4kse-backup-by_KhaledAli.zip
+18_Backup_NonSoloSat_12052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/nonsolosat-novaler4kse-backup-by_KhaledAli.zip
 19_Backup_SatLodge_12052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/Satlodge-novaler4kse-backup-by_KhaledAli.zip
 ===KhaledAli_NovalerSE_RAW=== https://khaledali.com
 01_Openatv_7.3 https://images.mynonpublic.com/openatv/7.3/current.php?open=novaler4kse
