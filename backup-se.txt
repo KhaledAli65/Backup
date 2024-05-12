@@ -14,11 +14,11 @@
 12_Backup_OpenDroid_7.3_20022024 https://dl.dropboxusercontent.com/s/u0eqp0r8s1e5htt/opendroid-novaler4kse-backup-by_KhaledAli.zip?dl=0
 13_Backup_OpenVision_13.1_11032024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openvision-novaler4kse-backup-by_KhaledAli.zip
 14_Backup_OpenHDF_7.3_11052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openhdf-novaler4kse-backup-by_KhaledAli.zip
-15_Backup_OpenTR_10.2_19112023 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openTR-novaler4kse-backup-by_KhaledAli.zip
+15_Backup_OpenTR_10.2_12052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openTR-novaler4kse-backup-by_KhaledAli.zip
 16_Backup_Hyperion_9.2_04042024 https://dl.dropboxusercontent.com/s/8ll48076ytruegb/Hyperion-novaler4kse-backup-by_KhaledAli.zip?dl=0
 17_Backup_CobraLiberoSat_08102023 https://dl.dropboxusercontent.com/s/nmvmrfc0gcy4qnn/cobraliberosat-novaler4kse-backup-by_KhaledAli.zip?dl=0
 18_Backup_NonSoloSat_02052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/nonsolosat-novaler4kse-backup-by_KhaledAli.zip
-19_Backup_SatLodge_22042024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/Satlodge-novaler4kse-backup-by_KhaledAli.zip
+19_Backup_SatLodge_12052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/Satlodge-novaler4kse-backup-by_KhaledAli.zip
 ===KhaledAli_NovalerSE_RAW=== https://khaledali.com
 01_Openatv_7.3 https://images.mynonpublic.com/openatv/7.3/current.php?open=novaler4kse
 02_Openatv_7.4_beta https://images.mynonpublic.com/openatv/7.4/current.php?open=novaler4kse
