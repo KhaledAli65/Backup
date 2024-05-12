@@ -11,12 +11,12 @@
 09_Backup_PurE2_7.3_22042024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/pure2-novaler4kse-backup-by_KhaledAli.zip
 10_Backup_OpenSpa_8.3_04052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openspa-novaler4kse-backup-by_KhaledAli.zip
 11_Backup_OpenVIX_6.5_03052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openvix-novaler4kse-backup-by_KhaledAli.zip
-12_Backup_OpenDroid_7.3_20022024 https://dl.dropboxusercontent.com/s/u0eqp0r8s1e5htt/opendroid-novaler4kse-backup-by_KhaledAli.zip?dl=0
+12_Backup_OpenDroid_7.3_20022024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/opendroid-novaler4kse-backup-by_KhaledAli.zip
 13_Backup_OpenVision_13.1_11032024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openvision-novaler4kse-backup-by_KhaledAli.zip
 14_Backup_OpenHDF_7.3_11052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openhdf-novaler4kse-backup-by_KhaledAli.zip
 15_Backup_OpenTR_10.2_12052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openTR-novaler4kse-backup-by_KhaledAli.zip
-16_Backup_Hyperion_9.2_04042024 https://dl.dropboxusercontent.com/s/8ll48076ytruegb/Hyperion-novaler4kse-backup-by_KhaledAli.zip?dl=0
-17_Backup_CobraLiberoSat_08102023 https://dl.dropboxusercontent.com/s/nmvmrfc0gcy4qnn/cobraliberosat-novaler4kse-backup-by_KhaledAli.zip?dl=0
+16_Backup_Hyperion_9.2_04042024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/Hyperion-novaler4kse-backup-by_KhaledAli.zip
+17_Backup_CobraLiberoSat_08102023 https://gitlab.com/novaler/novaler/-/raw/main/Backup/cobraliberosat-novaler4kse-backup-by_KhaledAli.zip
 18_Backup_NonSoloSat_02052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/nonsolosat-novaler4kse-backup-by_KhaledAli.zip
 19_Backup_SatLodge_12052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/Satlodge-novaler4kse-backup-by_KhaledAli.zip
 ===KhaledAli_NovalerSE_RAW=== https://khaledali.com
