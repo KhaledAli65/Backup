@@ -48,7 +48,7 @@
 03_OpenSPA_8.3 https://www.novaler.com/uploads/enigmase/openspa/openspa-8.3.005-novaler4kse-backup-20240310_usb.zip
 04_openpli_9 https://www.novaler.com/uploads/enigmase/openpli/openpli-develop-novaler4kse-backup-20240518_usb.zip
 05_Egami_10.4 https://www.novaler.com/uploads/enigmase/egami/egami-10.4.r15-novaler4kse-backup-20240428_usb.zip
-06_Egami_10.5 https://www.novaler.com/uploads/enigmase/egami/egami-10.5.r4-novaler4kse-backup-20240423_usb.zip 
+06_Egami_10.5 https://www.novaler.com/uploads/enigmase/egami/egami-10.5.r5-novaler4kse-backup-20240523_usb.zip 
 07_PurE2_7.3 https://www.novaler.com/uploads/enigmase/pure2/pure2-7.3-novaler4kse-backup-20240429_usb.zip
 08_PurE2_7.4 https://www.novaler.com/uploads/enigmase/pure2/pure2-7.4-novaler4kse-backup-20240423_usb.zip
 09_OpenBH_5.3 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.3-016-novaler4kse-backup-20240305.zip
