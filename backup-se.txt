@@ -16,7 +16,7 @@
 14_Backup_OpenHDF_7.3_11052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openhdf-novaler4kse-backup-by_KhaledAli.zip
 15_Backup_OpenTR_10.2_12052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openTR-novaler4kse-backup-by_KhaledAli.zip
 16_Backup_Hyperion_9.2_04042024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/Hyperion-novaler4kse-backup-by_KhaledAli.zip
-17_Backup_CobraLiberoSat_08102023 https://gitlab.com/novaler/novaler/-/raw/main/Backup/cobraliberosat-novaler4kse-backup-by_KhaledAli.zip
+17_Backup_CobraLiberoSat_24052024 https://dl.dropboxusercontent.com/scl/fi/2lmntssr55qs36rvhpyua/cobraliberosat-novaler4kse-backup-by_KhaledAli.zip?rlkey=pqc7wcx14mm2xs7ybngtznkhq&dl=0
 18_Backup_NonSoloSat_12052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/nonsolosat-novaler4kse-backup-by_KhaledAli.zip
 19_Backup_SatLodge_12052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/Satlodge-novaler4kse-backup-by_KhaledAli.zip
 20_Backup_TeamBlue_24052024 https://dl.dropboxusercontent.com/scl/fi/kpxeegx808h95ln3qg4ai/teamblue-novaler4kse-backup-by_KhaledAli.zip?rlkey=j1ryhyrqvzuzpe002spvt5ujk&dl=0
