@@ -8,7 +8,7 @@
 06_Backup_Openbh_5.3_11052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openbh-novaler4kse-backup-by_KhaledAli.zip 
 07_Backup_Openbh_5.4_20052024 https://dl.dropboxusercontent.com/scl/fi/1vh3uw3dcxf9mhz869pja/openbh_5.4-novaler4kse-backup-by_KhaledAli.zip?rlkey=9kw7a2rufpxpqtcwsrnblno24&dl=0 
 08_Backup_Egami_10.5_24052024 https://dl.dropboxusercontent.com/scl/fi/6pog6vrg1vd7v2jn7mt1y/egami-novaler4kse-backup-by_KhaledAli.zip?rlkey=cfhfa30mzfj8vottgrlac2tcl&dl=0
-09_Backup_PurE2_7.3_22042024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/pure2-novaler4kse-backup-by_KhaledAli.zip
+09_Backup_PurE2_7.4_25052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/pure2-novaler4kse-backup-by_KhaledAli.zip
 10_Backup_OpenSpa_8.3_04052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openspa-novaler4kse-backup-by_KhaledAli.zip
 11_Backup_OpenVIX_6.5_03052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openvix-novaler4kse-backup-by_KhaledAli.zip
 12_Backup_OpenDroid_7.3_15052024 https://dl.dropboxusercontent.com/scl/fi/nh2txzypmd7pl9mhtzz7s/opendroid-novaler4kse-backup-by_KhaledAli.zip?rlkey=ejtujhlb1cp68cda449js3np4&dl=0
@@ -29,13 +29,13 @@
 06_OpenDroid_7.3 https://www.novaler.com/uploads/enigmase/opendroid/opendroid-7.3-novaler4kse-r20240203_multi.zip
 07_Openbh_5.4 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.4.1.001.release-novaler4kse_multi.zip 
 08_Egami_10.5 https://image.egami-image.com/10.5/novaler4kse/egami-10.5-r5-novaler4kse-20240521_multi.zip
-09_PurE2_7.3 https://www.novaler.com/uploads/enigmase/pure2/novaler4kse-PurE2-7.3-20240316_multi.zip
+09_PurE2_7.4 https://dl.dropboxusercontent.com/scl/fi/7hzh2p8jrpqu3yklb3bmy/novaler4kse-PurE2-7.4.zip?rlkey=y565pqfn5qfy5cyie33yg8vvw&dl=0
 10_OpenVision_13.1 https://images.openvision.dedyn.io/13.1/Develop/Vision/MaxyTec/multiboxse/openvision-e2-develop-py3.11-13.1-r549-multiboxse-20230715_usb.zip
 11_OpenHDF_7.3 https://www.novaler.com/uploads/enigmase/openhdf/openhdf-7.3-novaler4kse-82-20240520_multi.zip
 12_OpenSpa_8.3 https://www.novaler.com/uploads/enigmase/openspa/openspa-8.3.004-novaler4kse-20240108_multi.zip
 13_Open_VIX_6.5 https://www.novaler.com/uploads/enigmase/openvix/openvix-6.6.000.release-novaler4kse_multi.zip
 14_OpenTR_11.0 https://www.novaler.com/uploads/enigmase/opentr/opentr-11.0r0-novaler4kse-20240225_usb.zip
-15_Hyperion_9.3 https://www.novaler.com/uploads/enigmase/pkt/zukonMOD-Hyperion-9.3-novaler4kse-git32549-svn4694_multi.zip
+15_Hyperion_9.2 https://dl.dropboxusercontent.com/scl/fi/9keyscnme1sg2c7lcawy7/hyperion-9.2-multiboxse-git32181-svn4618.zip?rlkey=i21j5shjjh8hu1dj5q2yf3z30&dl=0
 16_SatDreamGR_10.0 https://www.novaler.com/uploads/enigmase/satdreamgr/satdreamgr-10-novaler4kse-20240207_usb.zip
 17_OpenEight_6.8 https://novaler.com/uploads/enigmase/openeight/openeight-6.8-novaler4kse-20221109_multi.zip
 18_TeamBlue_7.3 https://www.novaler.com/uploads/enigmase/teamblue/teamblue-7.3-novaler4kse-20240520_multi.zip
