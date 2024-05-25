@@ -35,7 +35,7 @@
 12_OpenSpa_8.3 https://www.novaler.com/uploads/enigmase/openspa/openspa-8.3.004-novaler4kse-20240108_multi.zip
 13_Open_VIX_6.5 https://www.novaler.com/uploads/enigmase/openvix/openvix-6.6.000.release-novaler4kse_multi.zip
 14_OpenTR_11.0 https://www.novaler.com/uploads/enigmase/opentr/opentr-11.0r0-novaler4kse-20240225_usb.zip
-15_Hyperion_9.2 https://dl.dropboxusercontent.com/scl/fi/9keyscnme1sg2c7lcawy7/hyperion-9.2-multiboxse-git32181-svn4618.zip?rlkey=i21j5shjjh8hu1dj5q2yf3z30&dl=0
+15_Hyperion_9.2 https://dl.dropboxusercontent.com/scl/fi/pz6bo2q4455ye31dkf7tw/zukonMOD-Hyperion-novaler4kse.zip?rlkey=1rljr55phtkbs8n0tnnrk2lt1&dl=0
 16_SatDreamGR_10.0 https://www.novaler.com/uploads/enigmase/satdreamgr/satdreamgr-10-novaler4kse-20240207_usb.zip
 17_OpenEight_6.8 https://novaler.com/uploads/enigmase/openeight/openeight-6.8-novaler4kse-20221109_multi.zip
 18_TeamBlue_7.3 https://www.novaler.com/uploads/enigmase/teamblue/teamblue-7.3-novaler4kse-20240520_multi.zip
