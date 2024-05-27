@@ -1,6 +1,6 @@
 =======Welcome======= https://khaledali.com
 ###KhaledAli_NovalerSE_Cloud### https://khaledali.com
-01_Backup_Openatv_7.3_11052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openatv7.3-novaler4kse-backup-by_KhaledAli.zip
+01_Backup_Openatv_7.3_27052024 https://dl.dropboxusercontent.com/scl/fi/csyghm4fnlim5dhmxp55w/openatv-7.3-novaler4kse-backup-by_KhaledAli.zip?rlkey=vb75s6jy9uumr8ut5p5fpswv2&dl=0
 02_Backup_Openatv_7.4_15052024 https://dl.dropboxusercontent.com/scl/fi/b8y6trhe4yn45bs08qu3m/openatv-7.4-novaler4kse-backup-by_KhaledAli.zip?rlkey=jc8zxxoed7aazayjwlunhvqe2&dl=0
 03_Backup_OpenPli_9.0_11052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openpli-novaler4kse-backup-by_KhaledAli.zip
 04_Backup_OpenPli_8.3_09052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openpli-8.3-novaler4kse-backup-by_KhaledAli.zip
