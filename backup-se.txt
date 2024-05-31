@@ -23,9 +23,9 @@
 ===KhaledAli_NovalerSE_RAW=== https://khaledali.com
 01_Openatv_7.3 https://images.mynonpublic.com/openatv/7.3/current.php?open=novaler4kse
 02_Openatv_7.4_beta https://images.mynonpublic.com/openatv/7.4/current.php?open=novaler4kse
-03_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20240525_emmc.zip
-04_OpenPLi_9.0 https://downloads.openpli.org/builds/multiboxse/openpli-9.0-release-multiboxse-20240519_emmc.zip
-05_OpenPLi_8.3 https://downloads.openpli.org/builds/multiboxse/openpli-8.3-release-multiboxse-20240523_emmc.zip
+03_OpenPLi_dev https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20240530_emmc.zip
+04_OpenPLi_9.0 https://downloads.openpli.org/builds/multiboxse/openpli-9.0-release-multiboxse-20240527_emmc.zip
+05_OpenPLi_8.3 https://downloads.openpli.org/builds/multiboxse/openpli-8.3-release-multiboxse-20240529_emmc.zip
 06_OpenDroid_7.3 https://www.novaler.com/uploads/enigmase/opendroid/opendroid-7.3-novaler4kse-r20240203_multi.zip
 07_Openbh_5.4 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.4.1.001.release-novaler4kse_multi.zip 
 08_Egami_10.5 https://image.egami-image.com/10.5/novaler4kse/egami-10.5-r6-novaler4kse-20240524_multi.zip
@@ -44,7 +44,7 @@
 21_SatLodge_9 https://www.novaler.com/uploads/enigmase/satlodge/satlodge-9.0rel-multiboxpse_emmc.zip
 22_Areadelta_10.3 https://www.novaler.com/uploads/enigmase/areadeltasat/areadeltasat-10.3-r22-novaler4kse_usb.zip
 ===KhaledAli_NovalerSE_Official=== https://khaledali.com
-01_openatv_7.3 https://www.novaler.com/uploads/enigmase/openatv/openatv-7.3-novaler4kse-backup-20240428_usb.zip
+01_openatv_7.3 https://www.novaler.com/uploads/enigmase/openatv/openatv-7.3-novaler4kse-20240427_multi.zip
 02_Openatv_7.4 https://www.novaler.com/uploads/enigmase/openatv/openatv-7.4-novaler4kse-backup-20240423_usb.zip
 03_OpenSPA_8.3 https://www.novaler.com/uploads/enigmase/openspa/openspa-8.3.005-novaler4kse-backup-20240310_usb.zip
 04_openpli_9 https://www.novaler.com/uploads/enigmase/openpli/openpli-develop-novaler4kse-backup-20240518_usb.zip
@@ -54,7 +54,7 @@
 08_TeamBlue_7.3 https://www.novaler.com/uploads/enigmase/teamblue/teamblue-7.3-novaler4kse-backup-20240528_usb.zip
 09_OpenBH_5.3 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.3-016-novaler4kse-backup-20240305.zip
 10_Openbh_5.4 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.4.1-001-novaler4kse-backup-20240522_usb.zip
-11_SatDreamGR_10 https://www.novaler.com/uploads/enigmase/satdreamgr/satdreamgr-10-novaler4kse-backup-20240207_usb.zip
+11_SatDreamGR_10 https://www.novaler.com/uploads/enigmase/satdreamgr/satdreamgr-10-novaler4kse-backup-20240530_usb.zip
 12_NonSoloSat_33 https://www.novaler.com/uploads/enigmase/nonsolosat/nonsolosat-33-novaler4kse-backup-20240527_usb.zip
 13_OpenVix_6.5 https://www.novaler.com/uploads/enigmase/openvix/openvix-6.5-003-novaler4kse-backup-20240425_mmc.zip
 ===KhaledAli_NovalerSE_BOOT_5=== https://khaledali.com
