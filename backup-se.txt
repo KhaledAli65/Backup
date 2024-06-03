@@ -40,7 +40,7 @@
 17_OpenEight_6.8 https://novaler.com/uploads/enigmase/openeight/openeight-6.8-novaler4kse-20221109_multi.zip
 18_TeamBlue_7.3 https://www.novaler.com/uploads/enigmase/teamblue/teamblue-7.3-novaler4kse-20240520_multi.zip
 19_Cobraliberosat https://www.novaler.com/uploads/enigmase/cobralibero/cobraliberosat-9.0-multiboxse-20240601_emmc.zip
-20_Nonsolosat_32 https://dl.dropboxusercontent.com/scl/fi/xxuw8du6qsg4zgo0hfssq/nonsolosat-32-py3-multiboxse_emmc.zip?rlkey=9d2qdeibfxud9iyyjqbhjmpw9&dl=0
+20_Nonsolosat_33 https://dl.dropboxusercontent.com/scl/fi/0sc881dnyt6tku0y74pvo/nonsolosat-33-py3.zip?rlkey=f7kf3l2v9ltna9ylleo6nnhsx&dl=0
 21_SatLodge_9 https://www.novaler.com/uploads/enigmase/satlodge/satlodge-9.0rel-multiboxpse_emmc.zip
 22_Areadelta_10.3 https://www.novaler.com/uploads/enigmase/areadeltasat/areadeltasat-10.3-r22-novaler4kse_usb.zip
 ===KhaledAli_NovalerSE_Official=== https://khaledali.com
