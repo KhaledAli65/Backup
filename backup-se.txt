@@ -1,13 +1,13 @@
 =======Welcome======= https://khaledali.com
 ###KhaledAli_NovalerSE_Cloud### https://khaledali.com
 01_Backup_Openatv_7.4_04072024 https://dl.dropboxusercontent.com/scl/fi/b8y6trhe4yn45bs08qu3m/openatv-7.4-novaler4kse-backup-by_KhaledAli.zip?rlkey=jc8zxxoed7aazayjwlunhvqe2&dl=0
-02_Backup_OpenPli_9.0_30052024 https://dl.dropboxusercontent.com/scl/fi/r5klujhczu1xh2xbw3r5g/openpli-9.0-novaler4kse-backup-by_KhaledAli.zip?rlkey=jmg5d0j88g04m44uq7yadu090&dl=0
+02_Backup_OpenPli_9.0_05072024 https://dl.dropboxusercontent.com/scl/fi/r5klujhczu1xh2xbw3r5g/openpli-9.0-novaler4kse-backup-by_KhaledAli.zip?rlkey=jmg5d0j88g04m44uq7yadu090&dl=0
 03_Backup_OpenPli_8.3_02062024 https://dl.dropboxusercontent.com/scl/fi/agjvyd5x9vrgpyfrxwy9u/openpli-8.3-novaler4kse-backup-by_KhaledAli.zip?rlkey=f79ozfqtqn3aliiqltc2h35s8&dl=0
 04_Backup_OpenPLi_dev_09052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openpli-dev-novaler4kse-backup-by_KhaledAli.zip
 05_Backup_Openbh_5.4_20052024 https://dl.dropboxusercontent.com/scl/fi/1vh3uw3dcxf9mhz869pja/openbh_5.4-novaler4kse-backup-by_KhaledAli.zip?rlkey=9kw7a2rufpxpqtcwsrnblno24&dl=0 
 06_Backup_Egami_10.5_05072024 https://dl.dropboxusercontent.com/scl/fi/6pog6vrg1vd7v2jn7mt1y/egami-novaler4kse-backup-by_KhaledAli.zip?rlkey=cfhfa30mzfj8vottgrlac2tcl&dl=0
 07_Backup_PurE2_7.4_25052024 https://dl.dropboxusercontent.com/scl/fi/1yfml3ytve2st0wuwm12b/pure2-novaler4kse-backup-by_KhaledAli.zip?rlkey=jrwmicwpe41ll15m8k0x5z5fr&dl=0
-07_Backup_OpenSpa_8.3_26052024 https://dl.dropboxusercontent.com/scl/fi/8o5l2bzf2hwi5if6fhpde/openspa-novaler4kse-backup-by_KhaledAli.zip?rlkey=igg20g2gcli9lmzfz2d0jfw6s&dl=0
+08_Backup_OpenSpa_8.3_26052024 https://dl.dropboxusercontent.com/scl/fi/8o5l2bzf2hwi5if6fhpde/openspa-novaler4kse-backup-by_KhaledAli.zip?rlkey=igg20g2gcli9lmzfz2d0jfw6s&dl=0
 09_Backup_OpenVIX_6.5_03052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openvix-novaler4kse-backup-by_KhaledAli.zip
 10_Backup_OpenDroid_7.3_15052024 https://dl.dropboxusercontent.com/scl/fi/nh2txzypmd7pl9mhtzz7s/opendroid-novaler4kse-backup-by_KhaledAli.zip?rlkey=ejtujhlb1cp68cda449js3np4&dl=0
 11_Backup_OpenVision_13.1_11032024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openvision-novaler4kse-backup-by_KhaledAli.zip
@@ -52,7 +52,7 @@
 09_OpenBH_5.3_05032024 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.3-016-novaler4kse-backup-20240305.zip
 10_Openbh_5.4_25062024 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.4.1-novaler4kse-backup-20240625_usb.zip
 11_SatDreamGR_10_30052024 https://www.novaler.com/uploads/enigmase/satdreamgr/satdreamgr-10-novaler4kse-backup-20240530_usb.zip
-12_NonSoloSat_33_27042024 https://www.novaler.com/uploads/enigmase/nonsolosat/nonsolosat-33-novaler4kse-backup-20240527_usb.zip
+12_NonSoloSat_33_27052024 https://www.novaler.com/uploads/enigmase/nonsolosat/nonsolosat-33-novaler4kse-backup-20240527_usb.zip
 13_OpenVix_6.6_20062024 https://www.novaler.com/uploads/enigmase/openvix/openvix-6.6-002-novaler4kse-backup-20240620_mmc.zip
 14_CobraLiberOsat_9.0_30062024 https://www.novaler.com/uploads/enigmase/cobralibero/cobraliberosat-9.0-multiboxse-20240630_usb.zip
 ===KhaledAli_NovalerSE_BOOT_5=== https://khaledali.com
