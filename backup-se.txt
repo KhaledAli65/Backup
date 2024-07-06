@@ -2,7 +2,7 @@
 ###KhaledAli_NovalerSE_Cloud### https://khaledali.com
 01_Backup_Openatv_7.4_04072024 https://dl.dropboxusercontent.com/scl/fi/b8y6trhe4yn45bs08qu3m/openatv-7.4-novaler4kse-backup-by_KhaledAli.zip?rlkey=jc8zxxoed7aazayjwlunhvqe2&dl=0
 02_Backup_OpenPli_9.0_05072024 https://dl.dropboxusercontent.com/scl/fi/r5klujhczu1xh2xbw3r5g/openpli-9.0-novaler4kse-backup-by_KhaledAli.zip?rlkey=jmg5d0j88g04m44uq7yadu090&dl=0
-03_Backup_OpenPli_8.3_02062024 https://dl.dropboxusercontent.com/scl/fi/agjvyd5x9vrgpyfrxwy9u/openpli-8.3-novaler4kse-backup-by_KhaledAli.zip?rlkey=f79ozfqtqn3aliiqltc2h35s8&dl=0
+03_Backup_OpenPli_8.3_06072024 https://dl.dropboxusercontent.com/scl/fi/agjvyd5x9vrgpyfrxwy9u/openpli-8.3-novaler4kse-backup-by_KhaledAli.zip?rlkey=f79ozfqtqn3aliiqltc2h35s8&dl=0
 04_Backup_OpenPLi_dev_09052024 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openpli-dev-novaler4kse-backup-by_KhaledAli.zip
 05_Backup_Openbh_5.4_20052024 https://dl.dropboxusercontent.com/scl/fi/1vh3uw3dcxf9mhz869pja/openbh_5.4-novaler4kse-backup-by_KhaledAli.zip?rlkey=9kw7a2rufpxpqtcwsrnblno24&dl=0 
 06_Backup_Egami_10.5_05072024 https://dl.dropboxusercontent.com/scl/fi/6pog6vrg1vd7v2jn7mt1y/egami-novaler4kse-backup-by_KhaledAli.zip?rlkey=cfhfa30mzfj8vottgrlac2tcl&dl=0
@@ -35,7 +35,7 @@
 14_Hyperion_9.2_last https://dl.dropboxusercontent.com/scl/fi/pz6bo2q4455ye31dkf7tw/zukonMOD-Hyperion-novaler4kse.zip?rlkey=1rljr55phtkbs8n0tnnrk2lt1&dl=0
 15_SatDreamGR_10.0_last https://www.novaler.com/uploads/enigmase/satdreamgr/satdreamgr-10-novaler4kse-20240207_usb.zip
 16_OpenEight_6.8_last https://novaler.com/uploads/enigmase/openeight/openeight-6.8-novaler4kse-20221109_multi.zip
-17_TeamBlue_7.3_last https://www.novaler.com/uploads/enigmase/teamblue/teamblue-7.3-novaler4kse-20240520_multi.zip
+17_TeamBlue_7.3_last https://www.novaler.com/uploads/enigmase/teamblue/teamblue-7.3-novaler4kse-20240704_multi.zip
 18_Cobraliberosat_last https://www.novaler.com/uploads/enigmase/cobralibero/cobraliberosat-9.0-multiboxse-20240601_emmc.zip
 19_SatLodge_9_last https://www.novaler.com/uploads/enigmase/satlodge/satlodge-9.0rel-multiboxpse_emmc.zip
 20_Areadelta_10.3_last https://www.novaler.com/uploads/enigmase/areadeltasat/areadeltasat-10.3-r22-novaler4kse_usb.zip
