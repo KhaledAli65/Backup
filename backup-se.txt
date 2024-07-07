@@ -6,7 +6,7 @@
 04_Backup_OpenPLi_dev_06072024 https://dl.dropboxusercontent.com/scl/fi/xj5q7ov52lv9647ma6qq6/openpli-develop-novaler4kse-backup.zip?rlkey=w6vgb9g62bgfcsprc1pv1cfv5&dl=0
 05_Backup_Openbh_5.4_07072024 https://dl.dropboxusercontent.com/scl/fi/1vh3uw3dcxf9mhz869pja/openbh_5.4-novaler4kse-backup-by_KhaledAli.zip?rlkey=9kw7a2rufpxpqtcwsrnblno24&dl=0 
 06_Backup_Egami_10.5_05072024 https://dl.dropboxusercontent.com/scl/fi/6pog6vrg1vd7v2jn7mt1y/egami-novaler4kse-backup-by_KhaledAli.zip?rlkey=cfhfa30mzfj8vottgrlac2tcl&dl=0
-07_Backup_PurE2_7.4_25052024 https://dl.dropboxusercontent.com/scl/fi/1yfml3ytve2st0wuwm12b/pure2-novaler4kse-backup-by_KhaledAli.zip?rlkey=jrwmicwpe41ll15m8k0x5z5fr&dl=0
+07_Backup_PurE2_7.4_07072024 https://dl.dropboxusercontent.com/scl/fi/1yfml3ytve2st0wuwm12b/pure2-novaler4kse-backup-by_KhaledAli.zip?rlkey=jrwmicwpe41ll15m8k0x5z5fr&dl=0
 08_Backup_OpenSpa_8.3_26052024 https://dl.dropboxusercontent.com/scl/fi/8o5l2bzf2hwi5if6fhpde/openspa-novaler4kse-backup-by_KhaledAli.zip?rlkey=igg20g2gcli9lmzfz2d0jfw6s&dl=0
 09_Backup_OpenVIX_6.5_07072024 https://dl.dropboxusercontent.com/scl/fi/3hc74cldjsixk3vtawtcm/openvix-6.5-novaler4kse-backup.zip?rlkey=a6qt3dosa1vnr4qmbztv6an52&dl=0
 10_Backup_OpenDroid_7.3_15052024 https://dl.dropboxusercontent.com/scl/fi/nh2txzypmd7pl9mhtzz7s/opendroid-novaler4kse-backup-by_KhaledAli.zip?rlkey=ejtujhlb1cp68cda449js3np4&dl=0
