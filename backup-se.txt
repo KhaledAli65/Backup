@@ -25,14 +25,14 @@
 04_OpenPLi_8.3_last https://downloads.openpli.org/builds/multiboxse/openpli-8.3-release-multiboxse-20240704_emmc.zip
 05_Openbh_5.4_last https://www.novaler.com/uploads/enigmase/openbh/openbh-5.4.2.002.release-novaler4kse_multi.zip 
 06_Egami_10.5_last https://image.egami-image.com/10.5/novaler4kse/egami-10.5-r7-novaler4kse-20240618_multi.zip
-07_PurE2_7.4_last https://dl.dropboxusercontent.com/scl/fi/h363t2x1fllacjrmvsqzh/novaler4kse-PurE2-7.4-20240604_multi.zip?rlkey=n8a3dkn2svlntmmzso7pq7bsr&dl=0
+07_PurE2_7.4_last https://dl.dropboxusercontent.com/scl/fi/8ly6ffahqpgymhna7qhg8/novaler4kse-PurE2-7.4-20240701_multi.zip?rlkey=dp08m8hcsq6bo639lf0xegk2n&dl=0
 08_Nonsolosat_33_last https://dl.dropboxusercontent.com/scl/fi/0sc881dnyt6tku0y74pvo/nonsolosat-33-py3.zip?rlkey=f7kf3l2v9ltna9ylleo6nnhsx&dl=0
 09_OpenDroid_7.3_last https://www.novaler.com/uploads/enigmase/opendroid/opendroid-7.3-novaler4kse-r20240203_multi.zip
 10_OpenHDF_7.3_last https://www.novaler.com/uploads/enigmase/openhdf/openhdf-7.3-novaler4kse-82-20240520_multi.zip
 11_OpenSpa_8.3_last https://dl.dropboxusercontent.com/scl/fi/oz3jjn7vndh3h6t320jco/openspa-8.3.006.zip?rlkey=ipssi9jo8ktuim83uulm4m3xg&dl=0
 12_Open_VIX_6.6_last https://www.novaler.com/uploads/enigmase/openvix/openvix-6.6.002.release-novaler4kse_multi.zip
 13_OpenTR_11.1_last https://www.novaler.com/uploads/enigmase/opentr/opentr-11.1r1-novaler4kse-20240630_usb.zip
-14_Hyperion_9.2_last https://dl.dropboxusercontent.com/scl/fi/pz6bo2q4455ye31dkf7tw/zukonMOD-Hyperion-novaler4kse.zip?rlkey=1rljr55phtkbs8n0tnnrk2lt1&dl=0
+14_Hyperion_9.2_last https://dl.dropboxusercontent.com/scl/fi/9keyscnme1sg2c7lcawy7/hyperion-9.2-multiboxse-git32181-svn4618.zip?rlkey=i21j5shjjh8hu1dj5q2yf3z30&dl=0
 15_SatDreamGR_10.0_last https://www.novaler.com/uploads/enigmase/satdreamgr/satdreamgr-10-novaler4kse-20240207_usb.zip
 16_OpenEight_6.8_last https://novaler.com/uploads/enigmase/openeight/openeight-6.8-novaler4kse-20221109_multi.zip
 17_TeamBlue_7.3_last https://www.novaler.com/uploads/enigmase/teamblue/teamblue-7.3-novaler4kse-20240704_multi.zip
