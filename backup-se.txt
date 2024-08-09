@@ -10,10 +10,10 @@
 08_Backup_PurE2_7.4_04082024 https://dl.dropboxusercontent.com/scl/fi/1yfml3ytve2st0wuwm12b/pure2-novaler4kse-backup-by_KhaledAli.zip?rlkey=jrwmicwpe41ll15m8k0x5z5fr&dl=0
 ===KhaledAli_NovalerSE_RAW=== https://khaledali.com
 01_Openatv_7.4_last https://images.mynonpublic.com/openatv/7.4/current.php?open=novaler4kse
-02_Openatv_7.5_last https://images.mynonpublic.com/openatv/7.5/novaler4kse/openatv-7.5-novaler4kse-20240728_multi.zip
-03_Openpli_develop https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20240802_emmc.zip
-04_OpenPLi_9.0_last https://downloads.openpli.org/builds/multiboxse/openpli-9.0-release-multiboxse-20240729_emmc.zip
-05_OpenPLi_8.3_last https://downloads.openpli.org/builds/multiboxse/openpli-8.3-release-multiboxse-20240801_emmc.zip
+02_Openatv_7.5_last https://images.mynonpublic.com/openatv/7.5/novaler4kse/openatv-7.5-novaler4kse-20240808_multi.zip
+03_Openpli_develop https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20240809_emmc.zip
+04_OpenPLi_9.0_last https://downloads.openpli.org/builds/multiboxse/openpli-9.0-release-multiboxse-20240805_emmc.zip
+05_OpenPLi_8.3_last https://downloads.openpli.org/builds/multiboxse/openpli-8.3-release-multiboxse-20240808_emmc.zip
 06_Openbh_5.4_last https://www.novaler.com/uploads/enigmase/openbh/openbh-5.4.2.002.release-novaler4kse_multi.zip 
 07_Egami_10.5_last https://image.egami-image.com/10.5/novaler4kse/egami-10.5-r8-novaler4kse-20240801_multi.zip
 08_PurE2_7.4_last https://dl.dropboxusercontent.com/scl/fi/5gp6d90nkgq8q5whfny5t/novaler4kse-PurE2-7.4-20240727_multi.zip?rlkey=j30ue40r1ghxz2qyg2z7a3fya&dl=0
