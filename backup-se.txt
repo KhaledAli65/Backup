@@ -17,7 +17,7 @@
 07_PurE2_7.4_last https://dl.dropboxusercontent.com/scl/fi/5gp6d90nkgq8q5whfny5t/novaler4kse-PurE2-7.4-20240727_multi.zip?rlkey=j30ue40r1ghxz2qyg2z7a3fya&dl=0
 ===KhaledAli_NovalerSE_Official=== https://khaledali.com
 01_Openatv_7.5_25072024 https://www.novaler.com/uploads/enigmase/openatv/openatv-7.5-novaler4kse-backup-20240725_usb.zip
-02_Openatv_7.4_25062024 https://www.novaler.com/uploads/enigmase/openatv/openatv-7.4-novaler4kse-backup-20240625_usb.zip
+02_Openatv_7.4_25062024 https://www.novaler.com/uploads/enigmase/openatv/openatv-7.4-novaler4kse-backup-20240820_usb.zip
 03_openpli_9_27072024 https://www.novaler.com/uploads/enigmase/openpli/openpli-scarthgap-novaler4kse-backup-20240727_usb.zip
 04_Egami_10.5_25062024 https://www.novaler.com/uploads/enigmase/pure2/pure2-7.4-novaler4kse-backup-20240819_usb.zip 
 05_PurE2_7.4_26062024 https://www.novaler.com/uploads/enigmase/pure2/pure2-7.4-novaler4kse-backup-20240819_usb.zip
