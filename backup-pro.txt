@@ -1,7 +1,6 @@
 #######Welcome####### https://khaledali.com
 ===KhaledAli_Novaler_Pro_online_flash=== https://khaledali.com
-###KhaledAli_NovalerPRO_Cloud### https://khaledali.com
-01_Backup_Openatv_7.4_coming_soon https://khaledali.com
+01_Backup_Openatv_7.4_29082024 https://dl.dropboxusercontent.com/scl/fi/qfl8rqs06sl0wg7ddys6j/openatv-7.4-novaler4kpro-backup_KhaledAli.zip?rlkey=2ddof3uprgf6k3zfkywkoauq4&st=zx9gkmt9&dl=0
 02_Backup_Openatv_7.5_coming_soon https://khaledali.com
 03_Backup_OpenPLi_dev_coming_soon https://khaledali.com
 04_Backup_Openbh_5.4_29082024 https://dl.dropboxusercontent.com/scl/fi/zfnq1cezj20opxpcxerxh/openbh-5.4-novaler4kpro-backup_KhaledAli.zip?rlkey=bkpskpk6uqbjvo3u0bkzy130w&st=zhuu8vyk&dl=0 
@@ -16,7 +15,7 @@
 06_PurE2_7.3 https://www.novaler.com/uploads/enigmapro/pure2/novaler4kpro-PurE2-7.3-20240316_multi.zip
 ===KhaledAli_Novaler_Pro_Official=== https://khaledali.com
 01_openatv_7.4 https://www.novaler.com/uploads/enigmapro/openatv/openatv-7.4-novaler4kpro-backup-20240820_usb.zip
-01_openatv_7.5 https://www.novaler.com/uploads/enigmapro/openatv/openatv-7.5-novaler4kpro-backup-20240725_usb.zip
+02_openatv_7.5 https://www.novaler.com/uploads/enigmapro/openatv/openatv-7.5-novaler4kpro-backup-20240725_usb.zip
 03_openpli_9 https://www.novaler.com/uploads/enigmapro/openpli/openpli-develop-novaler4kpro-backup-20240624_usb.zip
 04_Egami_10.5 https://www.novaler.com/uploads/enigmapro/egami/egami-10.5.r10-novaler4kpro-backup-20240818_usb.zip
 05_PurE2_7.4 https://www.novaler.com/uploads/enigmapro/pure2/pure2-7.4-novaler4kpro-backup-20240819_usb.zip
