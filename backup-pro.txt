@@ -2,7 +2,7 @@
 ===KhaledAli_Novaler_Pro_online_flash=== https://khaledali.com
 01_Backup_Openatv_7.4_29082024 https://dl.dropboxusercontent.com/scl/fi/qfl8rqs06sl0wg7ddys6j/openatv-7.4-novaler4kpro-backup_KhaledAli.zip?rlkey=2ddof3uprgf6k3zfkywkoauq4&st=zx9gkmt9&dl=0
 02_Backup_Openatv_7.5_coming_soon https://khaledali.com
-03_Backup_OpenPLi_dev_coming_soon https://khaledali.com
+03_Backup_OpenPLi_dev_29082024 https://dl.dropboxusercontent.com/scl/fi/g53chra3nwkqjz73pjrmy/openpli-develop-multiboxpro-backup_KhaledAli.zip?rlkey=u29yj1p7e1qcn3hsuqtnngn0l&st=wr50y821&dl=0
 04_Backup_Openbh_5.4_29082024 https://dl.dropboxusercontent.com/scl/fi/zfnq1cezj20opxpcxerxh/openbh-5.4-novaler4kpro-backup_KhaledAli.zip?rlkey=bkpskpk6uqbjvo3u0bkzy130w&st=zhuu8vyk&dl=0 
 05_Backup_Egami_10.5_29082024 https://dl.dropboxusercontent.com/scl/fi/90l2xm9i60bmqi6ysaflg/egami-10.5-novaler4kpro-backup_KhaledAli.zip?rlkey=thewt4pffoev2wmrp0v83iwjs&st=z6tsi8tl&dl=0
 06_Backup_PurE2_7.4_coming_soon https://khaledali.com
