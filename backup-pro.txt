@@ -1,4 +1,4 @@
-☆☆☆☆☆|Welcome|☆☆☆☆☆ https://khaledali.com
+*****|Welcome|***** https://khaledali.com
 ===KhaledAli_Novaler_Pro_online_flash=== https://khaledali.com
 01_Backup_Openatv_7.4_29082024 https://dl.dropboxusercontent.com/scl/fi/qfl8rqs06sl0wg7ddys6j/openatv-7.4-novaler4kpro-backup_KhaledAli.zip?rlkey=2ddof3uprgf6k3zfkywkoauq4&st=zx9gkmt9&dl=0
 02_Backup_Openatv_7.5_30082024 https://dl.dropboxusercontent.com/scl/fi/4qf6w3a2hn5us69xix1v5/openatv-7.5-novaler4kpro-backup_KhaledAli.zip?rlkey=b4d06zc1l2y1k9hve0pfv132e&st=51sqv0qq&dl=0
@@ -26,6 +26,3 @@
 01_Android_8_PRO https://www.novaler.com/uploads/flashes/Android8.0_recovery3.53_multibox4kpro_01012024.zip
 ===KhaledAli_Novaler_PRO_Recovery=== https://khaledali.com
 01_Recovery_353_PRO https://www.novaler.com/uploads/flashes/novaler-multibox4kpro-20230816_recovery_emmc_v3.53.zip
-
-
-
