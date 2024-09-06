@@ -9,7 +9,7 @@
 07_Backup_PurE2_7.4_25082024 https://dl.dropboxusercontent.com/scl/fi/1yfml3ytve2st0wuwm12b/pure2-novaler4kse-backup-by_KhaledAli.zip?rlkey=jrwmicwpe41ll15m8k0x5z5fr&dl=0
 ===KhaledAli_NovalerSE_RAW=== https://khaledali.com
 01_Openatv_7.4_last https://images.mynonpublic.com/openatv/7.4/current.php?open=novaler4kse
-02_Openatv_7.5_last https://images.mynonpublic.com/openatv/7.5/novaler4kse/openatv-7.5-novaler4kse-20240823_multi.zip
+02_Openatv_7.5_last https://images.mynonpublic.com/openatv/7.5/current.php?open=novaler4kse
 03_Openpli_develop https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20240824_emmc.zip
 04_OpenPLi_9.0_last https://downloads.openpli.org/builds/multiboxse/openpli-9.0-release-multiboxse-20240818_emmc.zip
 05_Openbh_5.4_last https://www.novaler.com/uploads/enigmase/openbh/openbh-5.4.1.005.release-novaler4kse_multi.zip 
