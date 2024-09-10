@@ -6,7 +6,7 @@
 04_Backup_OpenPLi_dev_03092024 https://dl.dropboxusercontent.com/scl/fi/xj5q7ov52lv9647ma6qq6/openpli-develop-novaler4kse-backup.zip?rlkey=w6vgb9g62bgfcsprc1pv1cfv5&dl=0
 05_Backup_Openbh_5.4_09092024 https://dl.dropboxusercontent.com/scl/fi/1vh3uw3dcxf9mhz869pja/openbh_5.4-novaler4kse-backup-by_KhaledAli.zip?rlkey=9kw7a2rufpxpqtcwsrnblno24&dl=0 
 06_Backup_Egami_10.5_18082024 https://dl.dropboxusercontent.com/scl/fi/6pog6vrg1vd7v2jn7mt1y/egami-novaler4kse-backup-by_KhaledAli.zip?rlkey=cfhfa30mzfj8vottgrlac2tcl&dl=0
-07_Backup_PurE2_7.4_25082024 https://dl.dropboxusercontent.com/scl/fi/1yfml3ytve2st0wuwm12b/pure2-novaler4kse-backup-by_KhaledAli.zip?rlkey=jrwmicwpe41ll15m8k0x5z5fr&dl=0
+07_Backup_PurE2_7.4_11092024 https://dl.dropboxusercontent.com/scl/fi/1yfml3ytve2st0wuwm12b/pure2-novaler4kse-backup-by_KhaledAli.zip?rlkey=jrwmicwpe41ll15m8k0x5z5fr&dl=0
 ===KhaledAli_NovalerSE_RAW=== https://khaledali.com
 01_Openatv_7.4_last https://images.mynonpublic.com/openatv/7.4/current.php?open=novaler4kse
 02_Openatv_7.5_last https://images.mynonpublic.com/openatv/7.5/current.php?open=novaler4kse
