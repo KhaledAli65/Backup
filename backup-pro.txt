@@ -12,7 +12,7 @@
 03_OpenPLi_dev https://www.novaler.com/uploads/enigmapro/openpli/openpli-develop-multiboxpro-20240619_emmc.zip
 04_Openbh_5.4 https://www.novaler.com/uploads/enigmapro/openbh/openbh-5.4.1.006.release-novaler4kpro_multi.zip 
 05_Egami_10.5 https://image.egami-image.com/10.5/novaler4kpro/egami-10.5-r10-novaler4kpro-20240817_multi.zip
-06_PurE2_7.3 https://www.novaler.com/uploads/enigmapro/pure2/novaler4kpro-PurE2-7.3-20240316_multi.zip
+06_PurE2_7.4 https://www.novaler.com/uploads/enigmapro/pure2/novaler4kpro-PurE2-7.3-20240316_multi.zip
 ===KhaledAli_Novaler_Pro_Official=== https://khaledali.com
 01_openatv_7.4_20082024 https://www.novaler.com/uploads/enigmapro/openatv/openatv-7.4-novaler4kpro-backup-20240820_usb.zip
 02_openatv_7.5_25072024 https://www.novaler.com/uploads/enigmapro/openatv/openatv-7.5-novaler4kpro-backup-20240725_usb.zip
