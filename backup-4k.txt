@@ -1,9 +1,9 @@
 *****|Welcome|***** https://khaledali.com
 ===KhaledAli_Novaler_4K_online_flash=== https://khaledali.com
 01_Backup_Openatv_7.4_15092024 https://dl.dropboxusercontent.com/scl/fi/m1womd74mzregix17j9ce/openatv-7.4-novaler4k-backup_KhaledAli.zip?rlkey=31jr9u4f6hrec53tala7gqh4s&st=qpyk1lyq&dl=0
-02_Backup_Openatv_7.5_15092024 https://dl.dropboxusercontent.com/scl/fi/4qf6w3a2hn5us69xix1v5/openatv-7.5-novaler4kpro-backup_KhaledAli.zip?rlkey=b4d06zc1l2y1k9hve0pfv132e&st=51sqv0qq&dl=0
-03_Backup_OpenPLi_dev_15092024 https://dl.dropboxusercontent.com/scl/fi/g53chra3nwkqjz73pjrmy/openpli-develop-multiboxpro-backup_KhaledAli.zip?rlkey=u29yj1p7e1qcn3hsuqtnngn0l&st=wr50y821&dl=0
-04_Backup_Openbh_5.4_15092024 https://dl.dropboxusercontent.com/scl/fi/zfnq1cezj20opxpcxerxh/openbh-5.4-novaler4kpro-backup_KhaledAli.zip?rlkey=bkpskpk6uqbjvo3u0bkzy130w&st=zhuu8vyk&dl=0 
+02_Backup_Openatv_7.5_15092024 https://dl.dropboxusercontent.com/scl/fi/c20dop411sdedl17c16ls/openatv-7.5-novaler4k.zip?rlkey=tjrwuw85cfmoow2lpig6df5lf&st=wgtbpbdj&dl=0
+03_Backup_OpenPLi_dev_15092024 https://dl.dropboxusercontent.com/scl/fi/w0e6b6h7inxbsn9lfalls/openpli-develop-novaler4k.zip?rlkey=fjn79mr8dw9ci5uc5hwc2o2nu&st=rcaulshs&dl=0
+04_Backup_Openbh_5.4_15092024 https://dl.dropboxusercontent.com/scl/fi/bwfxw6oxocxlws4z0zlx1/openbh-5.4-novaler4k.zip?rlkey=awx4wk2j0ce1ey4cxy01w3rm6&st=n82xtq9m&dl=0
 05_Backup_Egami_10.5_15092024 https://dl.dropboxusercontent.com/scl/fi/90l2xm9i60bmqi6ysaflg/egami-10.5-novaler4kpro-backup_KhaledAli.zip?rlkey=thewt4pffoev2wmrp0v83iwjs&st=z6tsi8tl&dl=0
 06_Backup_PurE2_7.4_15092024 https://dl.dropboxusercontent.com/scl/fi/ify89ut7i5hehjchmk4xc/novaler4kpro-PurE2-7.4-backup_KhaledAli.zip?rlkey=g5autx4meh0mnn1553y1u9ec6&st=mhu2kqil&dl=0
 ===KhaledAli_Novaler_4K_RAW_Image=== https://khaledali.com
