@@ -12,7 +12,7 @@
 02_Openatv_7.5_last https://images.mynonpublic.com/openatv/7.5/current.php?open=novaler4kse
 03_Openpli_develop https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20240914_emmc.zip
 04_OpenPLi_9.0_last https://downloads.openpli.org/builds/multiboxse/openpli-9.0-release-multiboxse-20240908_emmc.zip
-05_Openbh_5.4_last https://www.novaler.com/uploads/enigmase/openbh/openbh-5.4.1.006.release-novaler4kse_multi.zip 
+05_Openbh_5.4_last https://www.novaler.com/uploads/enigmase/openbh/openbh-5.4.1.007.release-novaler4kse_multi.zip 
 06_Egami_10.5_last https://image.egami-image.com/10.5/novaler4kse/egami-10.5-r10-novaler4kse-20240817_multi.zip
 07_PurE2_7.4_last https://dl.dropboxusercontent.com/scl/fi/p4dmz7gvgx9xnl8fskgeu/novaler4kse-PurE2-7.4-20240829_multi.zip?rlkey=r6zkht9ev79iezo8h3b4i0pxy&st=zh3nqcgf&dl=0
 ===KhaledAli_NovalerSE_Official=== https://khaledali.com
