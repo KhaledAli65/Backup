@@ -9,7 +9,7 @@
 ===KhaledAli_Novaler_Pro_RAW_Image=== https://khaledali.com
 01_Openatv_7.4 https://images.mynonpublic.com/openatv/7.4/current.php?open=novaler4kpro
 02_Openatv_7.5 https://images.mynonpublic.com/openatv/7.5/current.php?open=novaler4kpro
-03_OpenPLi_dev https://www.novaler.com/uploads/enigmapro/openpli/openpli-develop-multiboxpro-20240619_emmc.zip
+03_OpenPLi_Scarthgap https://www.novaler.com/uploads/enigmapro/openpli/openpli-scarthgap-multiboxpro_emmc.zip
 04_Openbh_5.4 https://www.novaler.com/uploads/enigmapro/openbh/openbh-5.4.1.007.release-novaler4kpro_multi.zip 
 05_Egami_10.5 https://image.egami-image.com/10.5/novaler4kpro/egami-10.5-r10-novaler4kpro-20240817_multi.zip
 06_PurE2_7.4 https://dl.dropboxusercontent.com/scl/fi/1wqiqmpmsmwdplss6rthg/novaler4kpro-PurE2-7.4-20240829_multi.zip?rlkey=7zzbvuhxobzm6wuohq1a9t242&st=ol2hhbkv&dl=0
@@ -17,7 +17,7 @@
 01_openatv_7.4_20082024 https://www.novaler.com/uploads/enigmapro/openatv/openatv-7.4-novaler4kpro-backup-20240820_usb.zip
 02_openatv_7.5_25072024 https://www.novaler.com/uploads/enigmapro/openatv/openatv-7.5-novaler4kpro-backup-20240725_usb.zip
 03_openpli_9_24062024 https://www.novaler.com/uploads/enigmapro/openpli/openpli-develop-novaler4kpro-backup-20240624_usb.zip
-04_Openpli_py3.12_21082024 https://www.novaler.com/uploads/enigmapro/openpli/openpli-scarthgap-novaler4kpro-backup-20240821_usb.zip 
+04_Openpli_py3.12_19092024 https://www.novaler.com/uploads/enigmapro/openpli/openpli-scarthgap-novaler4kpro-backup-20240919_usb.zip 
 05_Egami_10.5_18082024 https://www.novaler.com/uploads/enigmapro/egami/egami-10.5.r10-novaler4kpro-backup-20240818_usb.zip
 06_PurE2_7.4_02092024 https://www.novaler.com/uploads/enigmapro/pure2/pure2-7.4-novaler4kpro-backup-20240902_usb.zip
 07_OpenBH_5.4_19082025 https://www.novaler.com/uploads/enigmapro/openbh/openbh-5.4.1-005-novaler4kpro-backup-20240819_mmc.zip
