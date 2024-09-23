@@ -2,7 +2,7 @@
 ###KhaledAli_NovalerSE_Cloud### https://khaledali.com
 01_Backup_Openatv_7.4_10092024 https://dl.dropboxusercontent.com/scl/fi/b8y6trhe4yn45bs08qu3m/openatv-7.4-novaler4kse-backup-by_KhaledAli.zip?rlkey=jc8zxxoed7aazayjwlunhvqe2&dl=0
 02_Backup_Openatv_7.5_06092024 https://dl.dropboxusercontent.com/scl/fi/xmoqdsm7v5fw14d7iyc2p/openatv-7.5-novaler4kse-backup-by_KhaledAli.zip?rlkey=aibhy79rdbd235e1tfmmzzefr&dl=0
-03_Backup_OpenPli_9.0_07092024 https://dl.dropboxusercontent.com/scl/fi/r5klujhczu1xh2xbw3r5g/openpli-9.0-novaler4kse-backup-by_KhaledAli.zip?rlkey=jmg5d0j88g04m44uq7yadu090&dl=0
+03_Backup_OpenPli_9.0_23092024 https://dl.dropboxusercontent.com/scl/fi/r5klujhczu1xh2xbw3r5g/openpli-9.0-novaler4kse-backup-by_KhaledAli.zip?rlkey=jmg5d0j88g04m44uq7yadu090&dl=0
 04_Backup_OpenPLi_dev_03092024 https://dl.dropboxusercontent.com/scl/fi/xj5q7ov52lv9647ma6qq6/openpli-develop-novaler4kse-backup.zip?rlkey=w6vgb9g62bgfcsprc1pv1cfv5&dl=0
 05_Openpli_Scarthgap_21092024 https://dl.dropboxusercontent.com/scl/fi/nfeo1m5tnpd9l8pw2a1r0/openpli-scarthgap-novaler4kse-backup.zip?rlkey=k8wmjo194l31npivnphsip8qr&st=pjf2gq8e&dl=0
 06_Backup_Openbh_5.4_16092024 https://dl.dropboxusercontent.com/scl/fi/1vh3uw3dcxf9mhz869pja/openbh_5.4-novaler4kse-backup-by_KhaledAli.zip?rlkey=9kw7a2rufpxpqtcwsrnblno24&dl=0 
@@ -11,7 +11,7 @@
 ===KhaledAli_NovalerSE_RAW=== https://khaledali.com
 01_Openatv_7.4_last https://images.mynonpublic.com/openatv/7.4/current.php?open=novaler4kse
 02_Openatv_7.5_last https://images.mynonpublic.com/openatv/7.5/current.php?open=novaler4kse
-03_Openpli_develop https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20240923_emmc.zip
+03_Openpli_develop https://downloads.openpli.org/builds/multiboxse/openpli-develop-multiboxse-20240922_emmc.zip
 04_OpenPLi_9.0_last https://downloads.openpli.org/builds/multiboxse/openpli-9.0-release-multiboxse-20240922_emmc.zip
 05_Openpli_scarthgap https://www.novaler.com/uploads/enigmase/openpli/openpli-scarthgap-multiboxse_emmc.zip
 06_Openbh_5.4_last https://www.novaler.com/uploads/enigmase/openbh/openbh-5.4.1.007.release-novaler4kse_multi.zip 
