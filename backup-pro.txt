@@ -27,5 +27,6 @@
 01_Openpli_9.0_BOOT_5 https://www.novaler.com/uploads/enigmapro/boot5/openpli-develop-multiboxpro-boot5.zip
 ===KhaledAli_Novaler_PRO_Android=== https://khaledali.com
 01_Android_8_PRO https://www.novaler.com/uploads/flashes/Android8.0_recovery3.53_multibox4kpro_01012024.zip
+02_Android_senator https://www.novaler.com/uploads/flashes/Multiboxpro-H5D-Senator.zip
 ===KhaledAli_Novaler_PRO_Recovery=== https://khaledali.com
 01_Recovery_353_PRO https://www.novaler.com/uploads/flashes/novaler-multibox4kpro-20230816_recovery_emmc_v3.53.zip
