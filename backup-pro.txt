@@ -28,5 +28,6 @@
 ===KhaledAli_Novaler_PRO_Android=== https://khaledali.com
 01_Android_8_PRO https://www.novaler.com/uploads/flashes/Android8.0_recovery3.53_multibox4kpro_01012024.zip
 02_Android_senator https://www.novaler.com/uploads/flashes/Multiboxpro-H5D-Senator.zip
+03_Android_Golden https://www.novaler.com/uploads/flashes/Multiboxpro-STAR_NET_GOLDEN-2070.zip
 ===KhaledAli_Novaler_PRO_Recovery=== https://khaledali.com
 01_Recovery_353_PRO https://www.novaler.com/uploads/flashes/novaler-multibox4kpro-20230816_recovery_emmc_v3.53.zip
