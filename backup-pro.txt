@@ -1,7 +1,7 @@
 *****|Welcome|***** https://khaledali.com
 ===KhaledAli_Novaler_Pro_online_flash=== https://khaledali.com
 01_Backup_Openatv_7.4_14092024 https://dl.dropboxusercontent.com/scl/fi/qfl8rqs06sl0wg7ddys6j/openatv-7.4-novaler4kpro-backup_KhaledAli.zip?rlkey=2ddof3uprgf6k3zfkywkoauq4&st=zx9gkmt9&dl=0
-02_Backup_Openatv_7.5_06092024 https://dl.dropboxusercontent.com/scl/fi/4qf6w3a2hn5us69xix1v5/openatv-7.5-novaler4kpro-backup_KhaledAli.zip?rlkey=b4d06zc1l2y1k9hve0pfv132e&st=51sqv0qq&dl=0
+02_Backup_Openatv_7.5_10102024 https://dl.dropboxusercontent.com/scl/fi/4qf6w3a2hn5us69xix1v5/openatv-7.5-novaler4kpro-backup_KhaledAli.zip?rlkey=b4d06zc1l2y1k9hve0pfv132e&st=51sqv0qq&dl=0
 03_Backup_OpenPLi_dev_29082024 https://dl.dropboxusercontent.com/scl/fi/g53chra3nwkqjz73pjrmy/openpli-develop-multiboxpro-backup_KhaledAli.zip?rlkey=u29yj1p7e1qcn3hsuqtnngn0l&st=wr50y821&dl=0
 04_Backup_OpenPLi_Scarthgap_22092024 https://dl.dropboxusercontent.com/scl/fi/7ovga9bqddqs74qav4cuw/openpli-scarthgap-novalerpro_backup.zip?rlkey=8ixtzudfa22g4m25v22wcix9a&st=dsswnl5r&dl=0
 05_Backup_Openbh_5.4_16092024 https://dl.dropboxusercontent.com/scl/fi/zfnq1cezj20opxpcxerxh/openbh-5.4-novaler4kpro-backup_KhaledAli.zip?rlkey=bkpskpk6uqbjvo3u0bkzy130w&st=zhuu8vyk&dl=0 
