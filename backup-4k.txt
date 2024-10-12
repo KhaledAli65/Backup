@@ -27,7 +27,10 @@
 01_Android_8_4K https://www.novaler.com/uploads/flashes/Android8.0_recovery3.53_multibox4k_01012024.zip
 02_Android_7_4K https://www.novaler.com/uploads/flashes/Android-v2022-multibox.zip
 03_Androi_senator https://www.novaler.com/uploads/flashes/Multibox-H5D-Senator.zip
-05_Android_Golden https://www.novaler.com/uploads/flashes/Multibox-STAR_NET_GOLDEN-2070.zip
+04_Android_Golden https://www.novaler.com/uploads/flashes/Multibox-STAR_NET_GOLDEN-2070.zip
+05_Android_WeZone https://www.novaler.com/uploads/flashes/Multibox-WezoneM8.zip
+06_Android_QBox https://www.novaler.com/uploads/flashes/Multibox-QBOX1.zip
+07_Android_ForTec https://www.novaler.com/uploads/flashes/Multibox-FortecStar.zip
 ===KhaledAli_Novaler_4K_Recovery=== https://khaledali.com
 01_Recovery_353_4K https://www.novaler.com/uploads/flashes/novaler4k-20240428_recovery_emmc_353.zip
 02_Recovery_318_4K https://www.novaler.com/uploads/flashes/novaler4k-20240428_recovery_emmc_318.zip

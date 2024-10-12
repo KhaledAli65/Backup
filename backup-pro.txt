@@ -29,5 +29,8 @@
 01_Android_8_PRO https://www.novaler.com/uploads/flashes/Android8.0_recovery3.53_multibox4kpro_01012024.zip
 02_Android_senator https://www.novaler.com/uploads/flashes/Multiboxpro-H5D-Senator.zip
 03_Android_Golden https://www.novaler.com/uploads/flashes/Multiboxpro-STAR_NET_GOLDEN-2070.zip
+04_Android_WeZone https://www.novaler.com/uploads/flashes/Multiboxpro-WezoneM8.zip
+05_Android_QBox https://www.novaler.com/uploads/flashes/Multiboxpro-QBOX1.zip
+06_Android_ForTec https://www.novaler.com/uploads/flashes/Multiboxpro-FortecStar.zip
 ===KhaledAli_Novaler_PRO_Recovery=== https://khaledali.com
 01_Recovery_353_PRO https://www.novaler.com/uploads/flashes/novaler-multibox4kpro-20230816_recovery_emmc_v3.53.zip
