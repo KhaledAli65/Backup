@@ -11,8 +11,8 @@
 ===|||Novaler_Pro_RAW_Image|||=== https://khaledali.com
 01_Openatv_7.4 https://images.mynonpublic.com/openatv/7.4/current.php?open=novaler4kpro
 02_Openatv_7.5 https://images.mynonpublic.com/openatv/7.5/current.php?open=novaler4kpro
-03_OpenPLi_10.0 https://www.novaler.com/uploads/enigmapro/openpli/openpli-10.0-multiboxpro_emmc.zip
-04_Openbh_5.5 https://www.novaler.com/uploads/enigmapro/openbh/openbh-5.5.0.001.release-novaler4kpro_multi.zip 
+03_OpenPLi_10.1 https://www.novaler.com/uploads/enigmapro/openpli/openpli-10.1-multiboxpro_emmc.zip
+04_Openbh_5.4.1.008 https://www.novaler.com/uploads/enigmapro/openbh/openbh-5.4.1.008.release-novaler4kpro_multi.zip 
 05_Egami_10.5 https://image.egami-image.com/10.5/novaler4kpro/egami-10.5-r10-novaler4kpro-20240817_multi.zip
 06_PurE2_7.4 https://dl.dropboxusercontent.com/scl/fi/1wqiqmpmsmwdplss6rthg/novaler4kpro-PurE2-7.4-20240829_multi.zip?rlkey=7zzbvuhxobzm6wuohq1a9t242&st=ol2hhbkv&dl=0
 07_OpenSpa_8.4 https://www.novaler.com/uploads/enigmapro/openspa/openspa-8.4.001-novaler4kpro-20240901_multi.zip
