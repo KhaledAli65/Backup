@@ -5,7 +5,7 @@
 02_Openatv_7.5_16102024 https://dl.dropboxusercontent.com/scl/fi/c20dop411sdedl17c16ls/openatv-7.5-novaler4k.zip?rlkey=tjrwuw85cfmoow2lpig6df5lf&st=wgtbpbdj&dl=0
 03_Openbh_5.4_28102024 https://dl.dropboxusercontent.com/scl/fi/bwfxw6oxocxlws4z0zlx1/openbh-5.4-novaler4k.zip?rlkey=awx4wk2j0ce1ey4cxy01w3rm6&st=n82xtq9m&dl=0
 04_PurE2_7.4_03112024 https://dl.dropboxusercontent.com/scl/fi/gqysfjdt7n6jcpuxjzvo0/novaler4k-PurE2-7.4.zip?rlkey=nvop5vgehue4qmhivot71nc3x&st=a41fkkv9&dl=0
-05_OpenPLi_dev_15092024 https://dl.dropboxusercontent.com/scl/fi/w0e6b6h7inxbsn9lfalls/openpli-develop-novaler4k.zip?rlkey=fjn79mr8dw9ci5uc5hwc2o2nu&st=rcaulshs&dl=0
+05_OpenVIX_6.7.001_05112024 https://dl.dropboxusercontent.com/scl/fi/mviz1ac9x7vlrb4j6h0ma/openvix-6.7.001-backup-novaler4k.zip?rlkey=pd6p3nlypuhl67iq7k99mkiwf&st=cd32ls91&dl=0
 06_Egami_10.5_15092024 https://dl.dropboxusercontent.com/scl/fi/6flslvnsihuchpe6c259a/egami-10.5-novaler4k.zip?rlkey=x3kl97f8byzmbrzxxfb64otrf&st=7ex3bnj8&dl=0
 ===|||Novaler_4K_RAW_Image|||=== https://khaledali.com
 01_Openatv_7.4 https://images.mynonpublic.com/openatv/7.4/current.php?open=novaler4k
