@@ -12,7 +12,7 @@
 02_Openatv_7.5 https://images.mynonpublic.com/openatv/7.5/current.php?open=novaler4k
 03_OpenPLi_10.1 https://www.novaler.com/uploads/enigma/openpli/openpli-10.1-multibox_emmc.zip
 04_Openbh_5.4.1.008 https://www.novaler.com/uploads/enigma/openbh/openbh-5.4.1.008.release-novaler4k_multi.zip 
-05_Egami_10.5 https://image.egami-image.com/10.5/novaler4k/egami-10.5-r10-novaler4k-20240817_multi.zip
+05_Egami_10.6 https://image.egami-image.com/10.6/novaler4k/egami-10.6-r1-novaler4k-20241116_multi.zip
 06_PurE2_7.4 https://dl.dropboxusercontent.com/scl/fi/rebun1u86cy4b9dg0sbh7/novaler4k-PurE2-7.4-20240829_multi.zip?rlkey=rks7z8mqlmaoefdt9fnyi20or&st=6fwxfwoz&dl=0
 ===|||Novaler_4K_Official|||=== https://khaledali.com
 01_openatv_7.4_20082024 https://www.novaler.com/uploads/enigma/openatv/openatv-7.4-novaler4k-backup-20240820_usb.zip
