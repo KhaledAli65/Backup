@@ -1,6 +1,6 @@
 *****|Welcome|***** https://khaledali.com
 ===KhaledAli_Novaler_4K_online_flash=== https://khaledali.com
-=======NEW_ERA_Backup======= https://khaledali.com
+=======KhaledAli_Backup======= https://khaledali.com
 01_Openatv_7.4_15102024 https://dl.dropboxusercontent.com/scl/fi/m1womd74mzregix17j9ce/openatv-7.4-novaler4k-backup_KhaledAli.zip?rlkey=31jr9u4f6hrec53tala7gqh4s&st=qpyk1lyq&dl=0
 02_Openatv_7.5_16102024 https://dl.dropboxusercontent.com/scl/fi/c20dop411sdedl17c16ls/openatv-7.5-novaler4k.zip?rlkey=tjrwuw85cfmoow2lpig6df5lf&st=wgtbpbdj&dl=0
 03_Openbh_5.4_28102024 https://dl.dropboxusercontent.com/scl/fi/bwfxw6oxocxlws4z0zlx1/openbh-5.4-novaler4k.zip?rlkey=awx4wk2j0ce1ey4cxy01w3rm6&st=n82xtq9m&dl=0
@@ -19,7 +19,7 @@
 02_openatv_7.5_13102024 https://www.novaler.com/uploads/enigma/openatv/openatv-7.5.1-devel-novaler4k-backup-20241013_usb.zip
 03_openpli_9_11072024 https://www.novaler.com/uploads/enigma/openpli/openpli-develop-novaler4k-backup-20240711_usb.zip
 04_Openpli_10.0_13102024 https://www.novaler.com/uploads/enigma/openpli/openpli-10.0-novaler4k-backup-20241013_usb.zip 
-05_Egami_10.5_18082024 https://www.novaler.com/uploads/enigma/egami/egami-10.5.r10-novaler4k-backup-20240818_usb.zip
+05_Egami_10.6_17112024 https://www.novaler.com/uploads/enigma/egami/egami-10.6.r1-novaler4k-backup-20241117_usb.zip
 06_PurE2_7.4_02092024 https://www.novaler.com/uploads/enigma/pure2/pure2-7.4-novaler4k-backup-20240902_usb.zip
 07_OpenBH_5.5.001_09112025 https://www.novaler.com/uploads/enigma/openbh/openbh-5.5-001-novaler4k-backup-20241109_mmc.zip
 ===||||Novaler_4K_BOOT_5|||=== https://khaledali.com
