@@ -16,8 +16,8 @@
 06_PurE2_7.4 https://dl.dropboxusercontent.com/scl/fi/rebun1u86cy4b9dg0sbh7/novaler4k-PurE2-7.4-20240829_multi.zip?rlkey=rks7z8mqlmaoefdt9fnyi20or&st=6fwxfwoz&dl=0
 ===|||Novaler_4K_Official|||=== https://khaledali.com
 01_openatv_7.4_20082024 https://www.novaler.com/uploads/enigma/openatv/openatv-7.4-novaler4k-backup-20240820_usb.zip
-02_openatv_7.5_13102024 https://www.novaler.com/uploads/enigma/openatv/openatv-7.5.1-devel-novaler4k-backup-20241013_usb.zip
-03_openpli_9_11072024 https://www.novaler.com/uploads/enigma/openpli/openpli-develop-novaler4k-backup-20240711_usb.zip
+02_openatv_7.5_18112024 https://www.novaler.com/uploads/enigma/openatv/openatv-7.5-novaler4k-backup-20241118_usb.zip
+03_openpli_9_19112024 https://www.novaler.com/uploads/enigma/openpli/openpli-develop-novaler4k-backup-20241119_usb.zip
 04_Openpli_10.0_13102024 https://www.novaler.com/uploads/enigma/openpli/openpli-10.0-novaler4k-backup-20241013_usb.zip 
 05_Egami_10.6_17112024 https://www.novaler.com/uploads/enigma/egami/egami-10.6.r1-novaler4k-backup-20241117_usb.zip
 06_PurE2_7.4_02092024 https://www.novaler.com/uploads/enigma/pure2/pure2-7.4-novaler4k-backup-20240902_usb.zip
