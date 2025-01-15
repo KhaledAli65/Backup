@@ -9,7 +9,7 @@
 06_Openatv_7.4_21122024 https://dl.dropboxusercontent.com/scl/fi/qfl8rqs06sl0wg7ddys6j/openatv-7.4-novaler4kpro-backup_KhaledAli.zip?rlkey=2ddof3uprgf6k3zfkywkoauq4&st=zx9gkmt9&dl=0
 07_PurE2_7.4_17122024 https://dl.dropboxusercontent.com/scl/fi/ify89ut7i5hehjchmk4xc/novaler4kpro-PurE2-7.4-backup_KhaledAli.zip?rlkey=g5autx4meh0mnn1553y1u9ec6&st=mhu2kqil&dl=0 
 ===|||Novaler_Pro_RAW_Image|||=== https://khaledali.com
-01_Openatv_7.5.1 https://images.mynonpublic.com/openatv/7.5.1/novaler4kpro/openatv-7.5.1-novaler4kpro-20250101_multi.zip
+01_Openatv_7.5.1 https://images.mynonpublic.com/openatv/7.5.1/current.php?open=novaler4kpro
 02_Openatv_7.5 https://images.mynonpublic.com/openatv/7.5/current.php?open=novaler4kpro
 03_OpenPLi_9.1 https://www.novaler.com/uploads/enigmapro/openpli/openpli-9.1-multiboxpro_emmc.zip
 04_Openbh_5.5.000 https://www.novaler.com/uploads/enigmapro/openbh/openbh-5.5.000.release-novaler4kpro_multi.zip 
