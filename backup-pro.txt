@@ -1,7 +1,7 @@
 *****|Welcome|***** https://khaledali.com
 ===KhaledAli_Novaler_Pro_online_flash=== https://khaledali.com
 ====|||KhakedAli_Backup|||==== https://khaledali.com
-01_Egami_10.6_R4_24012025 https://dl.dropboxusercontent.com/scl/fi/90l2xm9i60bmqi6ysaflg/egami-10.5-novaler4kpro-backup_KhaledAli.zip?rlkey=thewt4pffoev2wmrp0v83iwjs&st=z6tsi8tl&dl=0
+01_Egami_10.6_R5_14022025 https://dl.dropboxusercontent.com/scl/fi/90l2xm9i60bmqi6ysaflg/egami-10.5-novaler4kpro-backup_KhaledAli.zip?rlkey=thewt4pffoev2wmrp0v83iwjs&st=z6tsi8tl&dl=0
 02_Openatv_7.5.1_20012025 https://dl.dropboxusercontent.com/scl/fi/90mzcqxjsdz71qx158i70/openatv-7.5.1-novaler4kpro.zip?rlkey=mq3jll11vfqnedjl9llfw6ueq&st=1z3ixdc7&dl=0
 03_OpenVIX_6.7.001_20012025 https://dl.dropboxusercontent.com/scl/fi/clnobbfbrpt5t7u05qj06/openvix-6.7.001-backup-novaler4kpro.zip?rlkey=d9928ayyn6xo3pgo21g3scvlr&st=mchdbo34&dl=0
 04_Openbh_5.5_20012025 https://dl.dropboxusercontent.com/scl/fi/zfnq1cezj20opxpcxerxh/openbh-5.4-novaler4kpro-backup_KhaledAli.zip?rlkey=bkpskpk6uqbjvo3u0bkzy130w&st=zhuu8vyk&dl=0
