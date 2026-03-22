@@ -1,8 +1,8 @@
 =======Welcome======= https://khaledali.com
 ###KhaledAli_NovalerSE_Cloud### https://khaledali.com
 =====||||KhaledAli_Backup||||===== https://khaledali.com
-01_Egami_11.0_R17_18_03_2026 https://github.com/KhaledAli65/books/releases/download/Novalerse/egami-11.0-novaler4kse.zip
-02_Openatv_8.0_Alfa_18_03_2026 https://github.com/KhaledAli65/books/releases/download/Novalerse/openatv-novaler4kse.zip
+01_Egami_11.0_R17_18_03_2026 https://dl.dropboxusercontent.com/scl/fi/hd7pllsmnlmxss32tmcms/egami-11.0-novaler4kse.zip?rlkey=zaxfam901db2mjumzu3ref337&st=fid38afk&dl=0
+02_Openatv_8.0_Alfa_18_03_2026 https://dl.dropboxusercontent.com/scl/fi/qkiwq50equ3qkl5tydhj2/openatv-7.6.0-novaler4kse.zip?rlkey=e2bwxbtu2sqx6w05apt1wf8bz&st=ve8gpui6&dl=0
 03_OpenSPA_8.6.001_05_03_2026 https://dl.dropboxusercontent.com/scl/fi/284mqg43k3tee6pmes2wy/openspa-8.6-novalerse.zip?rlkey=oqb92q7vp5dulhti70p186o8i&st=7uwee2qg&dl=0
 04_PurE2_7.6_27_02_2026 https://dl.dropboxusercontent.com/scl/fi/pkoks0wwns3c2hx29le6o/pure2-novaler4kse-backup-by_KhaledAli.zip?rlkey=eiiqw2ib7flsby7mufd4g6wtp&st=28ehjmp8&dl=0
 05_Openbh_5.6.004_27_02_2026 https://dl.dropboxusercontent.com/scl/fi/oo4vf6upqd4pyl2b755so/openbh-5.5-novaler4kse.zip?rlkey=gkqxgnx02kcxj6ta9y2wfusy4&st=gyr8c5gf&dl=0
