@@ -2,7 +2,7 @@
 # --- KHALED ALI PANEL INSTALLER ---
 # Target: /usr/lib/enigma2/python/Plugins/Extensions/
 
-URL="https://github.com/KhaledAli65/plugins/raw/refs/heads/main/tar_packages/KhaledScript.tar.gz"
+URL="https://github.com/KhaledAli65/Slot/releases/download/v1.0.0/KhaledScript.tar.gz"
 TMP_DIR="/tmp/khaled_install"
 EXT_PATH="/usr/lib/enigma2/python/Plugins/Extensions"
 
