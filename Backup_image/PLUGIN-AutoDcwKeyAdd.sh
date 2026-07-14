@@ -4,7 +4,7 @@
 
 # --- الإعدادات ---
 # ضع الرابط الخاص بك بين علامتي التنصيص بالأسفل
-MANUAL_URL="https://github.com/KhaledAli65/plugins/raw/refs/heads/main/auto-dcw-key-add.ipk"
+MANUAL_URL="https://github.com/KhaledAli65/plugins/raw/refs/heads/main/ipk_packages/auto-dcw-key-add.ipk"
 
 # إذا تم تمرير رابط كمتغير أول من البلجن، سيتم استخدامه بدلاً من الرابط اليدوي
 URL=${1:-$MANUAL_URL}
