@@ -4,7 +4,7 @@
 
 # --- الإعدادات ---
 # ضع الرابط الخاص بك بين علامتي التنصيص بالأسفل
-MANUAL_URL="https://github.com/KhaledAli65/plugins/raw/refs/heads/main/ipk_packages/jedimakerxtream.ipk"
+MANUAL_URL="https://github.com/KhaledAli65/Slot/releases/download/v1.0.0/jedimakerxtream.ipk"
 
 # إذا تم تمرير رابط كمتغير أول من البلجن، سيتم استخدامه بدلاً من الرابط اليدوي
 URL=${1:-$MANUAL_URL}
