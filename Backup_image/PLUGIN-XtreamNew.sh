@@ -1,0 +1,1 @@
+wget -q "--no-check-certificate" https://raw.githubusercontent.com/ahmedhussein4342-lgtm/XtreamNew/main/install_xtreamnew.sh -O - | /bin/sh
