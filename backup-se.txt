@@ -1,10 +1,10 @@
 =======Welcome======= https://khaledali.com
 ###KhaledAli_NovalerSE_Cloud### https://khaledali.com
 =====||||KhaledAli_Backup||||===== https://khaledali.com 
-01_Openbh_6.0.001_07_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerse/openbh-6.0.001-novaler4kse_07092026.zip
-02_Openatv_8.0_07_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerse/openatv-8.0.0-beta-novaler4kse-07092026.zip
-03_Egami_11.0_R22_02_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerse/egami-11.0-r22-novaler4kse-02092026.zip
-04_OpenVIX_6.9.002_17_08_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerse/openvix-6.9.002-novaler4kse_17082026.zip
+01_OpenVIX_6.9.002_07_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerse/openvix-6.9.002-novaler4kse_07092026.zip
+02_Openbh_6.0.001_07_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerse/openbh-6.0.001-novaler4kse_07092026.zip
+03_Openatv_8.0_07_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerse/openatv-8.0.0-beta-novaler4kse-07092026.zip
+04_Egami_11.0_R22_02_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerse/egami-11.0-r22-novaler4kse-02092026.zip
 05_PurE2_7.6_17_08_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerse/novaler4kse-PurE2-7.6-17082026.zip
 06_Openatv_ARABIC_17_08_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerse/openatv-7.6.0-novaler4kse-ARABIC.zip
 ===|||||NovalerSE_BOOT_5|||||=== https://khaledali.com
