@@ -1,7 +1,7 @@
 =======Welcome======= https://khaledali.com
 ###KhaledAli_NovalerSE_Cloud### https://khaledali.com
 =====||||KhaledAli_Backup||||===== https://khaledali.com 
-01_Openbh_6.0.005_27_10_2026 https://gh-proxy.com/https://github.com/KhaledAli65/books/releases/download/Novalerse/openbh-6.0.005-novaler4kse_27102026.zip
+01_Openbh_6.0.005_27_10_2026 https://gh-proxy.com/https://github.com/KhaledAli65/books/releases/download/Novalerse/openbh-6.0.005-novaler4kse_28102026.zip
 02_OpenPli_Wrynose_16_10_2026 https://gh-proxy.com/https://github.com/KhaledAli65/books/releases/download/Novalerse/OpenPLi-wrynose-novalerse_16102026.zip
 03_Egami_11.0_R23_15_10_2026 https://gh-proxy.com/https://github.com/KhaledAli65/books/releases/download/Novalerse/EGAMI-11.0r23-novaler4kse-15102026.zip
 04_OpenPli_9.2_15_10_2026 https://gh-proxy.com/https://github.com/KhaledAli65/books/releases/download/Novalerse/OpenPLi-9.2-novaler4kse-15102026.zip
